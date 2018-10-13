@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>image-processing on Jared Fernandez</title>
+    <link>https://jaredfern.github.io/tags/image-processing/</link>
+    <description>Recent content in image-processing on Jared Fernandez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 12 Oct 2018 13:15:34 -0500</lastBuildDate>
+    
+	<atom:link href="https://jaredfern.github.io/tags/image-processing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Texture Similarity</title>
+      <link>https://jaredfern.github.io/project/texture-similarity/</link>
+      <pubDate>Fri, 12 Oct 2018 13:15:34 -0500</pubDate>
+      
+      <guid>https://jaredfern.github.io/project/texture-similarity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

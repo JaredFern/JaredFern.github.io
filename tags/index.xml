@@ -12,9 +12,27 @@
     
     
     <item>
+      <title>acl</title>
+      <link>https://jaredfern.github.io/tags/acl/</link>
+      <pubDate>Fri, 12 Oct 2018 13:15:14 -0500</pubDate>
+      
+      <guid>https://jaredfern.github.io/tags/acl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep-learning</title>
+      <link>https://jaredfern.github.io/tags/deep-learning/</link>
+      <pubDate>Fri, 12 Oct 2018 13:15:14 -0500</pubDate>
+      
+      <guid>https://jaredfern.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>embeddings</title>
       <link>https://jaredfern.github.io/tags/embeddings/</link>
-      <pubDate>Tue, 12 Sep 2017 03:03:09 -0500</pubDate>
+      <pubDate>Fri, 12 Oct 2018 04:02:24 -0500</pubDate>
       
       <guid>https://jaredfern.github.io/tags/embeddings/</guid>
       <description></description>
@@ -23,9 +41,36 @@
     <item>
       <title>emnlp</title>
       <link>https://jaredfern.github.io/tags/emnlp/</link>
-      <pubDate>Tue, 12 Sep 2017 03:03:09 -0500</pubDate>
+      <pubDate>Fri, 12 Oct 2018 04:02:24 -0500</pubDate>
       
       <guid>https://jaredfern.github.io/tags/emnlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image-processing</title>
+      <link>https://jaredfern.github.io/tags/image-processing/</link>
+      <pubDate>Fri, 12 Oct 2018 13:15:34 -0500</pubDate>
+      
+      <guid>https://jaredfern.github.io/tags/image-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language-modeling</title>
+      <link>https://jaredfern.github.io/tags/language-modeling/</link>
+      <pubDate>Fri, 12 Oct 2018 13:15:14 -0500</pubDate>
+      
+      <guid>https://jaredfern.github.io/tags/language-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language-models</title>
+      <link>https://jaredfern.github.io/tags/language-models/</link>
+      <pubDate>Fri, 12 Oct 2018 13:15:14 -0500</pubDate>
+      
+      <guid>https://jaredfern.github.io/tags/language-models/</guid>
       <description></description>
     </item>
     
@@ -41,7 +86,7 @@
     <item>
       <title>natural-language-processing</title>
       <link>https://jaredfern.github.io/tags/natural-language-processing/</link>
-      <pubDate>Tue, 12 Sep 2017 03:03:09 -0500</pubDate>
+      <pubDate>Fri, 12 Oct 2018 13:15:14 -0500</pubDate>
       
       <guid>https://jaredfern.github.io/tags/natural-language-processing/</guid>
       <description></description>
@@ -53,6 +98,33 @@
       <pubDate>Tue, 12 Sep 2017 03:03:09 -0500</pubDate>
       
       <guid>https://jaredfern.github.io/tags/northwestern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rnnlms</title>
+      <link>https://jaredfern.github.io/tags/rnnlms/</link>
+      <pubDate>Fri, 12 Oct 2018 13:15:14 -0500</pubDate>
+      
+      <guid>https://jaredfern.github.io/tags/rnnlms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>signal-processing</title>
+      <link>https://jaredfern.github.io/tags/signal-processing/</link>
+      <pubDate>Fri, 12 Oct 2018 13:15:34 -0500</pubDate>
+      
+      <guid>https://jaredfern.github.io/tags/signal-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>texture</title>
+      <link>https://jaredfern.github.io/tags/texture/</link>
+      <pubDate>Fri, 12 Oct 2018 13:15:34 -0500</pubDate>
+      
+      <guid>https://jaredfern.github.io/tags/texture/</guid>
       <description></description>
     </item>
     

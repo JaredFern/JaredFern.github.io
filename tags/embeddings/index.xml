@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 12 Sep 2017 03:03:09 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 12 Oct 2018 04:02:24 -0500</lastBuildDate>
     
 	<atom:link href="https://jaredfern.github.io/tags/embeddings/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Vecshare</title>
+      <link>https://jaredfern.github.io/project/vecshare/</link>
+      <pubDate>Fri, 12 Oct 2018 04:02:24 -0500</pubDate>
+      
+      <guid>https://jaredfern.github.io/project/vecshare/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>VecShare: A Framework for Sharing Word Representation Vectors. Empirical Methods in Natural Language Processing (EMNLP), </title>
