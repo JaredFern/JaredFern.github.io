@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>emnlp on Jared Fernandez</title>
+    <link>https://jaredfern.github.io/tags/emnlp/</link>
+    <description>Recent content in emnlp on Jared Fernandez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 12 Sep 2017 03:03:09 -0500</lastBuildDate>
+    
+	<atom:link href="https://jaredfern.github.io/tags/emnlp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>VecShare: A Framework for Sharing Word Representation Vectors. Empirical Methods in Natural Language Processing (EMNLP), </title>
+      <link>https://jaredfern.github.io/publication/vecshare/</link>
+      <pubDate>Tue, 12 Sep 2017 03:03:09 -0500</pubDate>
+      
+      <guid>https://jaredfern.github.io/publication/vecshare/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

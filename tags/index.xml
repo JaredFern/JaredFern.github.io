@@ -2,14 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jared Fernandez</title>
-    <link>http://jaredfern.github.io/tags/</link>
+    <link>https://jaredfern.github.io/tags/</link>
     <description>Recent content in Tags on Jared Fernandez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Jared Fernandez</copyright>
+    <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="http://jaredfern.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jaredfern.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>embeddings</title>
+      <link>https://jaredfern.github.io/tags/embeddings/</link>
+      <pubDate>Tue, 12 Sep 2017 03:03:09 -0500</pubDate>
+      
+      <guid>https://jaredfern.github.io/tags/embeddings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emnlp</title>
+      <link>https://jaredfern.github.io/tags/emnlp/</link>
+      <pubDate>Tue, 12 Sep 2017 03:03:09 -0500</pubDate>
+      
+      <guid>https://jaredfern.github.io/tags/emnlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine-learning</title>
+      <link>https://jaredfern.github.io/tags/machine-learning/</link>
+      <pubDate>Tue, 12 Sep 2017 03:03:09 -0500</pubDate>
+      
+      <guid>https://jaredfern.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>natural-language-processing</title>
+      <link>https://jaredfern.github.io/tags/natural-language-processing/</link>
+      <pubDate>Tue, 12 Sep 2017 03:03:09 -0500</pubDate>
+      
+      <guid>https://jaredfern.github.io/tags/natural-language-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>northwestern</title>
+      <link>https://jaredfern.github.io/tags/northwestern/</link>
+      <pubDate>Tue, 12 Sep 2017 03:03:09 -0500</pubDate>
+      
+      <guid>https://jaredfern.github.io/tags/northwestern/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

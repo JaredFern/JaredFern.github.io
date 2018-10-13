@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Jared Fernandez</title>
+    <link>https://jaredfern.github.io/home/</link>
+    <description>Recent content in Homes on Jared Fernandez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://jaredfern.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://jaredfern.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://jaredfern.github.io/home/about/</guid>
+      <description>I am a senior at Northwestern University studying Electrical Engineering and Computer Science, advised by Prof. Doug Downey and Prof. Thrasos Pappas. My current research focuses on methods for rapidly training statistical language models and developing objective metrics for measuring similarity in visual texture.
+My research interests are primarily in machine learning, computer vision and natural language processing.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://jaredfern.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://jaredfern.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://jaredfern.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://jaredfern.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://jaredfern.github.io/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaredfern.github.io/home/experience/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
