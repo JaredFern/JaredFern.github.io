@@ -10,7 +10,7 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>AQuA: An Adversarially Authored Question-Answer Dataset for Common Sense. To appear at Workshop on Evaluating Vector Space Representations for NLP (RepEval), </title>
+      <title>CODAH: An Adversarially Authored Question-Answer Dataset for Common Sense. Workshop on Evaluating Vector Space Representations for NLP (RepEval), </title>
       <link>https://jaredfern.github.io/publication/aqua/</link>
       <pubDate>Mon, 08 Apr 2019 03:03:09 -0500</pubDate>
       
