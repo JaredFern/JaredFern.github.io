@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 12 Oct 2018 13:15:14 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2019 03:03:09 -0500</lastBuildDate>
     
 	<atom:link href="https://jaredfern.github.io/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AQuA: An Adversarially Authored Question-Answer Dataset for Common Sense. To appear at Workshop on Evaluating Vector Space Representations for NLP (RepEval), </title>
+      <link>https://jaredfern.github.io/publication/aqua/</link>
+      <pubDate>Mon, 08 Apr 2019 03:03:09 -0500</pubDate>
+      
+      <guid>https://jaredfern.github.io/publication/aqua/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>RNNLM Importance Sampling</title>
@@ -18,7 +27,7 @@
       <pubDate>Fri, 12 Oct 2018 13:15:14 -0500</pubDate>
       
       <guid>https://jaredfern.github.io/project/importance-sampling/</guid>
-      <description></description>
+      <description>Sampling training data for faster convergence of RNNLM. Supervised by Doug Downey.</description>
     </item>
     
     <item>
@@ -27,7 +36,7 @@
       <pubDate>Fri, 12 Oct 2018 04:02:24 -0500</pubDate>
       
       <guid>https://jaredfern.github.io/project/vecshare/</guid>
-      <description></description>
+      <description>Online platform for selection and sharing of word embeddings. Supervised by Doug Downey.</description>
     </item>
     
     <item>

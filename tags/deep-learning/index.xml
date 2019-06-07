@@ -18,7 +18,7 @@
       <pubDate>Fri, 12 Oct 2018 13:15:14 -0500</pubDate>
       
       <guid>https://jaredfern.github.io/project/importance-sampling/</guid>
-      <description></description>
+      <description>Sampling training data for faster convergence of RNNLM. Supervised by Doug Downey.</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Fri, 12 Oct 2018 04:02:24 -0500</pubDate>
       
       <guid>https://jaredfern.github.io/project/vecshare/</guid>
-      <description></description>
+      <description>Online platform for selection and sharing of word embeddings. Supervised by Doug Downey.</description>
     </item>
     
   </channel>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>machine-learning on Jared Fernandez</title>
-    <link>https://jaredfern.github.io/tags/machine-learning/</link>
-    <description>Recent content in machine-learning on Jared Fernandez</description>
+    <title>repeval on Jared Fernandez</title>
+    <link>https://jaredfern.github.io/tags/repeval/</link>
+    <description>Recent content in repeval on Jared Fernandez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Mon, 08 Apr 2019 03:03:09 -0500</lastBuildDate>
     
-	<atom:link href="https://jaredfern.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jaredfern.github.io/tags/repeval/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Mon, 08 Apr 2019 03:03:09 -0500</pubDate>
       
       <guid>https://jaredfern.github.io/publication/aqua/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>VecShare: A Framework for Sharing Word Representation Vectors. Empirical Methods in Natural Language Processing (EMNLP), </title>
-      <link>https://jaredfern.github.io/publication/vecshare/</link>
-      <pubDate>Tue, 12 Sep 2017 03:03:09 -0500</pubDate>
-      
-      <guid>https://jaredfern.github.io/publication/vecshare/</guid>
       <description></description>
     </item>
     

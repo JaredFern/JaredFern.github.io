@@ -1,5 +1,102 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <loc>https://jaredfern.github.io/publication_types/1/</loc>
+      <lastmod>2019-04-08T03:03:09-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jaredfern.github.io/publication/aqua/</loc>
+      <lastmod>2019-04-08T03:03:09-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jaredfern.github.io/</loc>
+      <lastmod>2019-04-08T03:03:09-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jaredfern.github.io/publication_types/</loc>
+      <lastmod>2019-04-08T03:03:09-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jaredfern.github.io/tags/</loc>
+      <lastmod>2019-04-08T03:03:09-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jaredfern.github.io/tags/machine-learning/</loc>
+      <lastmod>2019-04-08T03:03:09-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jaredfern.github.io/tags/natural-language-processing/</loc>
+      <lastmod>2019-04-08T03:03:09-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jaredfern.github.io/tags/northwestern/</loc>
+      <lastmod>2019-04-08T03:03:09-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jaredfern.github.io/tags/question-answering/</loc>
+      <lastmod>2019-04-08T03:03:09-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jaredfern.github.io/tags/repeval/</loc>
+      <lastmod>2019-04-08T03:03:09-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jaredfern.github.io/project/</loc>
+      <lastmod>2018-10-12T13:15:34-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
     
     <url>
@@ -12,8 +109,80 @@
     
     <url>
     
+      <loc>https://jaredfern.github.io/tags/image-processing/</loc>
+      <lastmod>2018-10-12T13:15:34-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jaredfern.github.io/tags/signal-processing/</loc>
+      <lastmod>2018-10-12T13:15:34-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jaredfern.github.io/tags/texture/</loc>
+      <lastmod>2018-10-12T13:15:34-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://jaredfern.github.io/project/importance-sampling/</loc>
       <lastmod>2018-10-12T13:15:14-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jaredfern.github.io/tags/acl/</loc>
+      <lastmod>2018-10-12T13:15:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jaredfern.github.io/tags/deep-learning/</loc>
+      <lastmod>2018-10-12T13:15:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jaredfern.github.io/tags/language-modeling/</loc>
+      <lastmod>2018-10-12T13:15:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jaredfern.github.io/tags/language-models/</loc>
+      <lastmod>2018-10-12T13:15:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jaredfern.github.io/tags/rnnlms/</loc>
+      <lastmod>2018-10-12T13:15:14-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -30,6 +199,24 @@
     
       <loc>https://jaredfern.github.io/project/vecshare/</loc>
       <lastmod>2018-10-12T04:02:24-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jaredfern.github.io/tags/embeddings/</loc>
+      <lastmod>2018-10-12T04:02:24-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jaredfern.github.io/tags/emnlp/</loc>
+      <lastmod>2018-10-12T04:02:24-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -68,168 +255,7 @@
     
     <url>
     
-      <loc>https://jaredfern.github.io/publication_types/1/</loc>
-      <lastmod>2018-10-12T09:31:39-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://jaredfern.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jaredfern.github.io/</loc>
-      <lastmod>2016-04-20T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jaredfern.github.io/project/</loc>
-      <lastmod>2018-10-12T13:15:34-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jaredfern.github.io/publication_types/</loc>
-      <lastmod>2018-10-12T09:31:39-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jaredfern.github.io/tags/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jaredfern.github.io/tags/acl/</loc>
-      <lastmod>2018-10-12T13:15:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jaredfern.github.io/tags/deep-learning/</loc>
-      <lastmod>2018-10-12T13:15:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jaredfern.github.io/tags/embeddings/</loc>
-      <lastmod>2018-10-12T04:02:24-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jaredfern.github.io/tags/emnlp/</loc>
-      <lastmod>2018-10-12T04:02:24-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jaredfern.github.io/tags/image-processing/</loc>
-      <lastmod>2018-10-12T13:15:34-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jaredfern.github.io/tags/language-modeling/</loc>
-      <lastmod>2018-10-12T13:15:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jaredfern.github.io/tags/language-models/</loc>
-      <lastmod>2018-10-12T13:15:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jaredfern.github.io/tags/machine-learning/</loc>
-      <lastmod>2017-09-12T03:03:09-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jaredfern.github.io/tags/natural-language-processing/</loc>
-      <lastmod>2018-10-12T13:15:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jaredfern.github.io/tags/northwestern/</loc>
-      <lastmod>2017-09-12T03:03:09-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jaredfern.github.io/tags/rnnlms/</loc>
-      <lastmod>2018-10-12T13:15:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jaredfern.github.io/tags/signal-processing/</loc>
-      <lastmod>2018-10-12T13:15:34-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jaredfern.github.io/tags/texture/</loc>
-      <lastmod>2018-10-12T13:15:34-05:00</lastmod>
       <priority>0</priority>
     </url>
     
