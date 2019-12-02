@@ -10,38 +10,56 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Projects</title>
-      <link>https://jaredfern.github.io/project/</link>
+      <title>CODAH: An Adversarially Authored Question-Answer Dataset for Common Sense. Workshop on Evaluating Vector Space Representations for NLP (RepEval), </title>
+      <link>https://jaredfern.github.io/publication/aqua/</link>
+      <pubDate>Mon, 08 Apr 2019 03:03:09 -0500</pubDate>
+      
+      <guid>https://jaredfern.github.io/publication/aqua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Texture Similarity</title>
+      <link>https://jaredfern.github.io/project/texture-similarity/</link>
       <pubDate>Fri, 12 Oct 2018 13:15:34 -0500</pubDate>
       
-      <guid>https://jaredfern.github.io/project/</guid>
+      <guid>https://jaredfern.github.io/project/texture-similarity/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>https://jaredfern.github.io/post/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      <title>RNNLM Importance Sampling</title>
+      <link>https://jaredfern.github.io/project/importance-sampling/</link>
+      <pubDate>Fri, 12 Oct 2018 13:15:14 -0500</pubDate>
       
-      <guid>https://jaredfern.github.io/post/</guid>
+      <guid>https://jaredfern.github.io/project/importance-sampling/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>https://jaredfern.github.io/publication/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      <title>Sampling Informative Training Data for RNN Language Models. Association for Computational Linguistics: Student Research Workshop (ACL-SRW), </title>
+      <link>https://jaredfern.github.io/publication/importance-sampling/</link>
+      <pubDate>Fri, 12 Oct 2018 09:31:39 -0500</pubDate>
       
-      <guid>https://jaredfern.github.io/publication/</guid>
+      <guid>https://jaredfern.github.io/publication/importance-sampling/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://jaredfern.github.io/talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      <title>Vecshare</title>
+      <link>https://jaredfern.github.io/project/vecshare/</link>
+      <pubDate>Fri, 12 Oct 2018 04:02:24 -0500</pubDate>
       
-      <guid>https://jaredfern.github.io/talk/</guid>
+      <guid>https://jaredfern.github.io/project/vecshare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VecShare: A Framework for Sharing Word Representation Vectors. Empirical Methods in Natural Language Processing (EMNLP), </title>
+      <link>https://jaredfern.github.io/publication/vecshare/</link>
+      <pubDate>Tue, 12 Sep 2017 03:03:09 -0500</pubDate>
+      
+      <guid>https://jaredfern.github.io/publication/vecshare/</guid>
       <description></description>
     </item>
     

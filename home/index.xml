@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Jared Fernandez</title>
@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://jaredfern.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,16 +15,17 @@
     <item>
       <title></title>
       <link>https://jaredfern.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://jaredfern.github.io/home/about/</guid>
-      <description>Currently, I am a Software Engineer at Google working on predictive models in Search. My research interests are primarily in machine learning and natural language processing.</description>
+      <description>I am a senior at Northwestern University studying Electrical Engineering and Computer Science, advised by Doug Downey and Thrasos Pappas. My current research focuses on methods for evaluating models in natural language processing and measuring perceptual similarity of image texture.
+My research interests are primarily in machine learning and natural language processing.</description>
     </item>
     
     <item>
       <title>Publications</title>
       <link>https://jaredfern.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://jaredfern.github.io/home/publications/</guid>
       <description></description>
@@ -33,7 +34,7 @@
     <item>
       <title>Projects</title>
       <link>https://jaredfern.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://jaredfern.github.io/home/projects/</guid>
       <description></description>

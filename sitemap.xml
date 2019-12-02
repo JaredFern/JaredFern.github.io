@@ -5,6 +5,7 @@
     
       <loc>https://jaredfern.github.io/publication_types/1/</loc>
       <lastmod>2019-04-08T03:03:09-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -21,30 +22,7 @@
     
       <loc>https://jaredfern.github.io/</loc>
       <lastmod>2019-04-08T03:03:09-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jaredfern.github.io/tags/machine-learning/</loc>
-      <lastmod>2019-04-08T03:03:09-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jaredfern.github.io/tags/natural-language-processing/</loc>
-      <lastmod>2019-04-08T03:03:09-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jaredfern.github.io/tags/northwestern/</loc>
-      <lastmod>2019-04-08T03:03:09-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -53,22 +31,7 @@
     
       <loc>https://jaredfern.github.io/publication_types/</loc>
       <lastmod>2019-04-08T03:03:09-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jaredfern.github.io/tags/question-answering/</loc>
-      <lastmod>2019-04-08T03:03:09-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jaredfern.github.io/tags/repeval/</loc>
-      <lastmod>2019-04-08T03:03:09-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -77,14 +40,52 @@
     
       <loc>https://jaredfern.github.io/tags/</loc>
       <lastmod>2019-04-08T03:03:09-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
     
     <url>
     
-      <loc>https://jaredfern.github.io/tags/image-processing/</loc>
-      <lastmod>2018-10-12T13:15:34-05:00</lastmod>
+      <loc>https://jaredfern.github.io/tags/machine-learning/</loc>
+      <lastmod>2019-04-08T03:03:09-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jaredfern.github.io/tags/natural-language-processing/</loc>
+      <lastmod>2019-04-08T03:03:09-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jaredfern.github.io/tags/northwestern/</loc>
+      <lastmod>2019-04-08T03:03:09-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jaredfern.github.io/tags/question-answering/</loc>
+      <lastmod>2019-04-08T03:03:09-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jaredfern.github.io/tags/repeval/</loc>
+      <lastmod>2019-04-08T03:03:09-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -93,22 +94,7 @@
     
       <loc>https://jaredfern.github.io/project/</loc>
       <lastmod>2018-10-12T13:15:34-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jaredfern.github.io/tags/signal-processing/</loc>
-      <lastmod>2018-10-12T13:15:34-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jaredfern.github.io/tags/texture/</loc>
-      <lastmod>2018-10-12T13:15:34-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -123,32 +109,27 @@
     
     <url>
     
-      <loc>https://jaredfern.github.io/tags/acl/</loc>
-      <lastmod>2018-10-12T13:15:14-05:00</lastmod>
+      <loc>https://jaredfern.github.io/tags/image-processing/</loc>
+      <lastmod>2018-10-12T13:15:34-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
     
     <url>
     
-      <loc>https://jaredfern.github.io/tags/deep-learning/</loc>
-      <lastmod>2018-10-12T13:15:14-05:00</lastmod>
+      <loc>https://jaredfern.github.io/tags/signal-processing/</loc>
+      <lastmod>2018-10-12T13:15:34-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
     
     <url>
     
-      <loc>https://jaredfern.github.io/tags/language-modeling/</loc>
-      <lastmod>2018-10-12T13:15:14-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jaredfern.github.io/tags/language-models/</loc>
-      <lastmod>2018-10-12T13:15:14-05:00</lastmod>
+      <loc>https://jaredfern.github.io/tags/texture/</loc>
+      <lastmod>2018-10-12T13:15:34-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -163,8 +144,45 @@
     
     <url>
     
+      <loc>https://jaredfern.github.io/tags/acl/</loc>
+      <lastmod>2018-10-12T13:15:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jaredfern.github.io/tags/deep-learning/</loc>
+      <lastmod>2018-10-12T13:15:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jaredfern.github.io/tags/language-modeling/</loc>
+      <lastmod>2018-10-12T13:15:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jaredfern.github.io/tags/language-models/</loc>
+      <lastmod>2018-10-12T13:15:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://jaredfern.github.io/tags/rnnlms/</loc>
       <lastmod>2018-10-12T13:15:14-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -179,8 +197,17 @@
     
     <url>
     
+      <loc>https://jaredfern.github.io/project/vecshare/</loc>
+      <lastmod>2018-10-12T04:02:24-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://jaredfern.github.io/tags/embeddings/</loc>
       <lastmod>2018-10-12T04:02:24-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -189,14 +216,7 @@
     
       <loc>https://jaredfern.github.io/tags/emnlp/</loc>
       <lastmod>2018-10-12T04:02:24-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jaredfern.github.io/project/vecshare/</loc>
-      <lastmod>2018-10-12T04:02:24-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -212,7 +232,7 @@
     <url>
     
       <loc>https://jaredfern.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
     
   
@@ -220,7 +240,7 @@
     <url>
     
       <loc>https://jaredfern.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
     
   
@@ -228,7 +248,7 @@
     <url>
     
       <loc>https://jaredfern.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
     
   
@@ -236,6 +256,7 @@
     <url>
     
       <loc>https://jaredfern.github.io/categories/</loc>
+      <priority>0</priority>
     </url>
     
   
