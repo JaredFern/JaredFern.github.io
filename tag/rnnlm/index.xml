@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rnnlm | Jared Fernandez</title>
+    <link>https://jaredfern.com/tag/rnnlm/</link>
+      <atom:link href="https://jaredfern.com/tag/rnnlm/index.xml" rel="self" type="application/rss+xml" />
+    <description>rnnlm</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated August 9, 2020.</copyright><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jaredfern.com/images/icon_hu5e5940d0a93045546b50f7d52931d453_27802_512x512_fill_lanczos_center_2.png</url>
+      <title>rnnlm</title>
+      <link>https://jaredfern.com/tag/rnnlm/</link>
+    </image>
+    
+    <item>
+      <title>Sampling Informative Training Data for RNN Language Models</title>
+      <link>https://jaredfern.com/publication/rnn-is/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://jaredfern.com/publication/rnn-is/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

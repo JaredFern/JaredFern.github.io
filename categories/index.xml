@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Jared Fernandez</title>
-    <link>https://jaredfern.github.io/categories/</link>
-    <description>Recent content in Categories on Jared Fernandez</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    
-	<atom:link href="https://jaredfern.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Categories | Jared Fernandez</title>
+    <link>https://jaredfern.com/categories/</link>
+      <atom:link href="https://jaredfern.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated August 9, 2020.</copyright>
+    <image>
+      <url>https://jaredfern.com/images/icon_hu5e5940d0a93045546b50f7d52931d453_27802_512x512_fill_lanczos_center_2.png</url>
+      <title>Categories</title>
+      <link>https://jaredfern.com/categories/</link>
+    </image>
     
   </channel>
 </rss>

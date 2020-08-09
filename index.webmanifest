@@ -1,0 +1,18 @@
+{
+  "name": "Jared Fernandez",
+  "short_name": "Jared Fernandez",
+  "lang": "en-us",
+  "theme_color": "#5c5c5c",
+  "background_color": "#5c5c5c",
+  "icons": [{
+    "src": "/images/icon_hu5e5940d0a93045546b50f7d52931d453_27802_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu5e5940d0a93045546b50f7d52931d453_27802_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

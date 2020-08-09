@@ -1,151 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Jared Fernandez</title>
-    <link>https://jaredfern.github.io/tags/</link>
-    <description>Recent content in Tags on Jared Fernandez</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 08 Apr 2019 03:03:09 -0500</lastBuildDate>
-    
-	<atom:link href="https://jaredfern.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>machine-learning</title>
-      <link>https://jaredfern.github.io/tags/machine-learning/</link>
-      <pubDate>Mon, 08 Apr 2019 03:03:09 -0500</pubDate>
-      
-      <guid>https://jaredfern.github.io/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>natural-language-processing</title>
-      <link>https://jaredfern.github.io/tags/natural-language-processing/</link>
-      <pubDate>Mon, 08 Apr 2019 03:03:09 -0500</pubDate>
-      
-      <guid>https://jaredfern.github.io/tags/natural-language-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>northwestern</title>
-      <link>https://jaredfern.github.io/tags/northwestern/</link>
-      <pubDate>Mon, 08 Apr 2019 03:03:09 -0500</pubDate>
-      
-      <guid>https://jaredfern.github.io/tags/northwestern/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>question-answering</title>
-      <link>https://jaredfern.github.io/tags/question-answering/</link>
-      <pubDate>Mon, 08 Apr 2019 03:03:09 -0500</pubDate>
-      
-      <guid>https://jaredfern.github.io/tags/question-answering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>repeval</title>
-      <link>https://jaredfern.github.io/tags/repeval/</link>
-      <pubDate>Mon, 08 Apr 2019 03:03:09 -0500</pubDate>
-      
-      <guid>https://jaredfern.github.io/tags/repeval/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>image-processing</title>
-      <link>https://jaredfern.github.io/tags/image-processing/</link>
-      <pubDate>Fri, 12 Oct 2018 13:15:34 -0500</pubDate>
-      
-      <guid>https://jaredfern.github.io/tags/image-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>signal-processing</title>
-      <link>https://jaredfern.github.io/tags/signal-processing/</link>
-      <pubDate>Fri, 12 Oct 2018 13:15:34 -0500</pubDate>
-      
-      <guid>https://jaredfern.github.io/tags/signal-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>texture</title>
-      <link>https://jaredfern.github.io/tags/texture/</link>
-      <pubDate>Fri, 12 Oct 2018 13:15:34 -0500</pubDate>
-      
-      <guid>https://jaredfern.github.io/tags/texture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>acl</title>
-      <link>https://jaredfern.github.io/tags/acl/</link>
-      <pubDate>Fri, 12 Oct 2018 13:15:14 -0500</pubDate>
-      
-      <guid>https://jaredfern.github.io/tags/acl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>deep-learning</title>
-      <link>https://jaredfern.github.io/tags/deep-learning/</link>
-      <pubDate>Fri, 12 Oct 2018 13:15:14 -0500</pubDate>
-      
-      <guid>https://jaredfern.github.io/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>language-modeling</title>
-      <link>https://jaredfern.github.io/tags/language-modeling/</link>
-      <pubDate>Fri, 12 Oct 2018 13:15:14 -0500</pubDate>
-      
-      <guid>https://jaredfern.github.io/tags/language-modeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>language-models</title>
-      <link>https://jaredfern.github.io/tags/language-models/</link>
-      <pubDate>Fri, 12 Oct 2018 13:15:14 -0500</pubDate>
-      
-      <guid>https://jaredfern.github.io/tags/language-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rnnlms</title>
-      <link>https://jaredfern.github.io/tags/rnnlms/</link>
-      <pubDate>Fri, 12 Oct 2018 13:15:14 -0500</pubDate>
-      
-      <guid>https://jaredfern.github.io/tags/rnnlms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>embeddings</title>
-      <link>https://jaredfern.github.io/tags/embeddings/</link>
-      <pubDate>Fri, 12 Oct 2018 04:02:24 -0500</pubDate>
-      
-      <guid>https://jaredfern.github.io/tags/embeddings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>emnlp</title>
-      <link>https://jaredfern.github.io/tags/emnlp/</link>
-      <pubDate>Fri, 12 Oct 2018 04:02:24 -0500</pubDate>
-      
-      <guid>https://jaredfern.github.io/tags/emnlp/</guid>
-      <description></description>
-    </item>
+    <title>Tags | Jared Fernandez</title>
+    <link>https://jaredfern.com/tags/</link>
+      <atom:link href="https://jaredfern.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated August 9, 2020.</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jaredfern.com/images/icon_hu5e5940d0a93045546b50f7d52931d453_27802_512x512_fill_lanczos_center_2.png</url>
+      <title>Tags</title>
+      <link>https://jaredfern.com/tags/</link>
+    </image>
     
   </channel>
 </rss>
