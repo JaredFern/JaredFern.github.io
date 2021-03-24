@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="Empirical Methods in Natural Language Processing (EMNLP), 2017.">
+  <meta name="description" content="Tools, Tips, and Tricks for Research">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://jaredfern.com/publication/vecshare/">
+  <link rel="alternate" hreflang="en-us" href="https://jaredfern.com/post/devops/">
 
   
 
@@ -236,7 +236,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu08e2401af9c5e74302c664b7c55c659f_21507_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu08e2401af9c5e74302c664b7c55c659f_21507_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://jaredfern.com/publication/vecshare/">
+  <link rel="canonical" href="https://jaredfern.com/post/devops/">
 
   
   
@@ -255,15 +255,15 @@
   <meta property="twitter:creator" content="@FernJared">
   
   <meta property="og:site_name" content="Jared Fernandez">
-  <meta property="og:url" content="https://jaredfern.com/publication/vecshare/">
-  <meta property="og:title" content="VecShare: A Framework for Sharing Word Representation Vectors | Jared Fernandez">
-  <meta property="og:description" content="Empirical Methods in Natural Language Processing (EMNLP), 2017."><meta property="og:image" content="https://jaredfern.com/images/icon_hu08e2401af9c5e74302c664b7c55c659f_21507_512x512_fill_lanczos_center_2.png">
+  <meta property="og:url" content="https://jaredfern.com/post/devops/">
+  <meta property="og:title" content="Development Workflows for Researchers | Jared Fernandez">
+  <meta property="og:description" content="Tools, Tips, and Tricks for Research"><meta property="og:image" content="https://jaredfern.com/images/icon_hu08e2401af9c5e74302c664b7c55c659f_21507_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://jaredfern.com/images/icon_hu08e2401af9c5e74302c664b7c55c659f_21507_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2017-01-01T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2020-03-12T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2017-09-01T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2020-03-06T00:00:00&#43;00:00">
   
 
   
@@ -275,6 +275,8 @@
 
 
 
+
+  
 
 
 
@@ -282,15 +284,15 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
+  "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://jaredfern.com/publication/vecshare/"
+    "@id": "https://jaredfern.com/post/devops/"
   },
-  "headline": "VecShare: A Framework for Sharing Word Representation Vectors",
+  "headline": "Development Workflows for Researchers",
   
-  "datePublished": "2017-01-01T00:00:00Z",
-  "dateModified": "2017-09-01T00:00:00Z",
+  "datePublished": "2020-03-12T00:00:00Z",
+  "dateModified": "2020-03-06T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -305,7 +307,7 @@
       "url": "https://jaredfern.com/images/icon_hu08e2401af9c5e74302c664b7c55c659f_21507_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "Empirical Methods in Natural Language Processing (EMNLP), 2017."
+  "description": "Tools, Tips, and Tricks for Research"
 }
 </script>
 
@@ -323,7 +325,7 @@
 
 
 
-  <title>VecShare: A Framework for Sharing Word Representation Vectors | Jared Fernandez</title>
+  <title>Development Workflows for Researchers | Jared Fernandez</title>
 
 </head>
 <body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
@@ -457,6 +459,35 @@
         
         
 
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>etc.</span></a>
+        </li>
+
+        
+        
+
       
 
         
@@ -476,7 +507,7 @@
 </nav>
 
 
-  <div class="pub">
+  <article class="article">
 
   
 
@@ -497,7 +528,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>VecShare: A Framework for Sharing Word Representation Vectors</h1>
+  <h1>Development Workflows for Researchers</h1>
 
   
 
@@ -515,7 +546,7 @@
     
 
   
-  <span ><b>Jared Fernandez</b></span>, <span >Zhaocheng Yu</span>, <span >Doug Downey</span>
+  <span ><b>Jared Fernandez</b></span>
   </div>
   
   
@@ -525,20 +556,31 @@
     
     
       
+          Last updated on
+      
     
-    September 2017
+    Mar 6, 2020
   </span>
   
 
   
 
   
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    6 min read
+  </span>
+  
 
   
   
   
 
   
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/reference/">reference</a></span>
   
 
 </div>
@@ -556,61 +598,6 @@
 
 
 
-
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://www.aclweb.org/anthology/D17-1032.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/JaredFern/VecShare" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="/files/vecshare_poster.pdf" target="_blank" rel="noopener">
-  Poster
-</a>
-
-
-  
-
-
-
-
-
-
-</div>
 
 
   
@@ -620,34 +607,217 @@
 
   <div class="article-container">
 
-    
+    <div class="article-style">
+      <p>Research in computer science can often involve working with large code bases and scalable systems. We want to spend time on science rather than on [debugging, deployment, etc].</p>
+<p>Knowing your tooling and designing your projects according to best practices can accelerate your research workflow so you can focus on higher level problems.</p>
+<h2 id="working-on-the-command-line">Working on the Command Line</h2>
+<p>Shells are powerful, fast, and extensible &ndash; with many useful tools to make your life easier. Commandline development can be much faster than heavyweight editors, IDEs, or GUIs.</p>
+<ul>
+<li>Z Shell (zsh): A more customizable shell than bash
+<ul>
+<li>Plenty of 
+<a href="https://ohmyz.sh/" target="_blank" rel="noopener">Plugins</a> &amp; 
+<a href="https://github.com/romkatv/powerlevel10k" target="_blank" rel="noopener">themes</a> to make reading and navigating your terminal easier</li>
+<li>Quality-of-life improvements such as: FZF, Autosuggestions, syntax highlighting, indicators for virtual environments, and more.</li>
+</ul>
+</li>
+<li>Vim: Fast navigation, scripting using a modal editor
+<ul>
+<li>Apply Vi bindings to other inputs:
+<ul>
+<li>Zsh: <code>Bindkey -v; set-editing-mode&quot;; &gt;&gt; ~/.zshrc</code></li>
+<li>Readline:  <code>set editing-mode vi; set keymap vi;&quot; &gt;&gt; ~/.inputrc</code></li>
+</ul>
+</li>
+<li>Highly customizable with plenty of nice plugins
+<ul>
+<li>Readability: Line Numbers, NerdTree, Taglist, Airline, vim-polyglot</li>
+<li>Editing: Commentary, AutoComplete (or CoC), GitGutter, Visual Multiline, Fzf</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Tmux (or GNU Screen): Close your laptop lid without losing your work (and a lot more)
+<ul>
+<li>Multiple windows and multiple panes: Preserve windowing and splits</li>
+<li>Useful when working on remote servers over multiple sessions</li>
+<li>Extensions: Tmuxinator, Tmuxline</li>
+</ul>
+</li>
+<li>Useful Unix Commands:
+<ul>
+<li>Basic Unix Commands:  less, man, grep, sed, sort, regex, awk, piping (‘|’), wc, uniq, cut, paste, head, strings, &amp;&raquo; (io redirection)</li>
+<li>Filesystem: ls -l, cd -, du, df, which, diff, md5sum, rsync &raquo; scp -R, sl, find, du -h &ndash;max-depth=N</li>
+<li>System Monitoring: speedtest (ping), htop (vtop), watch, gpustat (nvidia-smi)</li>
+<li>Some other things: Ctrl+z (fg, bg), Reverse I-Search, xclip, thefuck, history</li>
+</ul>
+</li>
+</ul>
+<h2 id="personalizing-your-shell">Personalizing Your Shell</h2>
+<p>Setting up your environment can be quite a lot of work, but writing clean config files means that you can port them to (almost) any machine.</p>
+<ul>
+<li>Dotfiles &amp; Your Shell Environment:
+<ul>
+<li>Startup Files: Profile vs. Env vs. Rc</li>
+<li>Customize your editor and shell environments: .vimrc &amp; .zshrc</li>
+<li>Add plugins for common use cases</li>
+<li>Adding aliases for commands and global functions</li>
+<li>Add environment variables for frequently used commands</li>
+<li>Store a repo of your dotfiles so you can transfer configs across machines: Here’s mine</li>
+</ul>
+</li>
+<li>Keyboard Remapping:
+<ul>
+<li>Modifier/Prefix keys for terminal and application controls (i.e. tmux with vim bindings)</li>
+<li>Remapping unused keys to useful ones:
+<ul>
+<li>Caps Lock, PrintScr -&gt; Ctrl, Cmd, Esc</li>
+</ul>
+</li>
+<li>Window management: Moving between workspaces and windows</li>
+</ul>
+</li>
+</ul>
+<h2 id="writing-clean-code">Writing Clean Code</h2>
+<p>Good project and code management can increase readability and reduce time spent debugging.</p>
+<ul>
+<li>Version Controlling with Git: More than [add, commit, push]
+<ul>
+<li>Basic Commands: Checkout, branch, remote, diff</li>
+<li>git add -p: Add code in hunks and verify your changes (instead of pull files)</li>
+</ul>
+</li>
+<li>Pre-commit Checks:
+<ul>
+<li>Fix syntax and style mistakes before you commit or experiment</li>
+<li>Formatters ensure your code is [syntax + compilable, formatted, linted]</li>
+</ul>
+</li>
+<li>Effectively using your Editor &amp; IDE: If it’s using all that RAM it better be doing work
+<ul>
+<li>Common Features:
+<ul>
+<li>File structure: Show your classes, functions, variable scopes</li>
+<li>Call Graphs: goto declaration, definition, etc</li>
+<li>Deployment: SFTP and auto-upload your code from inside your IDE</li>
+<li>Version Control: Tools for merging, checkout and branch management</li>
+<li>Debugging: Set breakpoints</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Organizing Project Workspaces
+<ul>
+<li>Separate binaries from libraries:</li>
+<li>Executables should only argparse and call the library</li>
+<li>Stay organized - Directories for configs, logs, data, shell scripts, utils</li>
+</ul>
+</li>
+</ul>
+<h2 id="managing-dependencies">Managing Dependencies</h2>
+<p>Virtual environments and containers manage libraries and system-level dependencies across projects. These may be necessary especially when a build requires tool versions not supported by the machine&rsquo;s base operating system.</p>
+<ul>
+<li>Virtual Environments: Controlling python-level dependencies (conda, pip, venv)
+<ul>
+<li>Export your environments with environment.yml (conda) or requirements.txt (pip) files</li>
+</ul>
+</li>
+<li>Containers: Controlling system level dependencies
+<ul>
+<li>Run a virtual container of an OS and your dependencies while maintaining access to the machine’s real file system</li>
+<li>How to use Docker/Singularity:
+<ol>
+<li>Specify your dependencies in a Dockerfile or Singularity</li>
+<li>Get a container image by: Pulling from a remote, Building from your config file</li>
+<li>Specify your binds: Resources (Tasks, CUDA devices), file paths</li>
+</ol>
+</li>
+<li>Docker vs Singularity:
+<ul>
+<li>They are interoperable! You can build a Singularity image from a DockerFile</li>
+<li>Docker manages its own images, Singularity stores images as standard .sif files</li>
+<li>Singularity is more compatible with HPC clusters because it is run as its own job rather than being managed by the docker daemon</li>
+</ul>
+</li>
+<li>Kubernetes (K8): Deploying docker containers to multiple servers at scale</li>
+</ul>
+</li>
+<li>Some Useful Computational Packages and Tools:
+<ul>
+<li>High Volume Storage &amp; Databases: Lmdb, Msgpack</li>
+<li>Computation: Numpy, scipy, scikit, tensorflow, torch, keras, JAX, pandas, nltk</li>
+<li>Distributed Training: Horovod, Apex (with Mixed precision), Torch DistributedData</li>
+<li>Process &amp; Job Management: multiprocessing, wandb</li>
+</ul>
+</li>
+</ul>
+<h2 id="deployment-and-experimentation">Deployment and Experimentation</h2>
+<p>Developing a deployment framework for committing and running experiments on remote servers will</p>
+<ul>
+<li>Testing Code on your Remote:
+<ul>
+<li>Use pre-commit tests and test on your local machine (canary)</li>
+<li>Pull on remote machine and test with debug breakpoints and logging</li>
+</ul>
+</li>
+<li>Use Jupyter Lab/Notebooks to run code in blocks
+<ul>
+<li>Deploy Notebooks on Compute Nodes and use port forwarding to experiment with the ipynb locally</li>
+<li>Warning: Using SFTP and forced autoupload to remote can cause problems with repos using multiple branches by causing desyncs</li>
+</ul>
+</li>
+<li>Port forwarding (e.g., Tensorboard, Jupyerlab)</li>
+<li>Scheduling Jobs:
+<ul>
+<li>Daemons: Jobs that just won’t stop</li>
+<li>Crontab: Schedule recurring jobs to be called by the cron daemon</li>
+</ul>
+</li>
+<li>HPC Cluster: Queuing jobs on Slurm</li>
+</ul>
+<h2 id="file-systems--remote-backup">File Systems &amp; Remote Backup</h2>
+<p>Organizing and cloud-syncing your filesystem can make navigating and accessing files much less of a headache.</p>
+<ul>
+<li>Auto-syncing files across Devices: Google Drive and Dropbox
+<ul>
+<li>Organizing your filesystem and making it searchable</li>
+<li>Use symlinks to keep your sensitive things local if you don’t trust your remote storage</li>
+</ul>
+</li>
+<li>Working with Remote Servers:
+<ul>
+<li>Access remote files by mounting external servers with NFS</li>
+<li>Keep your project files synced with SFTP and Deployment Plugins (CLI: rsync)</li>
+<li>Keep your dev environments synced by maintaining your .dotfiles</li>
+<li>Ex. .zshprofile, .zshrc, .vimrc, .gitconfig, .tmux.conf</li>
+<li>Remote Configs: Faster development with SSH and Git Configs</li>
+</ul>
+</li>
+</ul>
+<h2 id="personal-security">Personal Security</h2>
+<p>Services are frequently compromised. Encryption and MFA increase your digital safety when that happens.</p>
+<ul>
+<li>Multi-Factor Authentication: So strangers can’t remote login onto your accounts
+<ul>
+<li>Use an authenticator app (Duo, Authy, GAuth) or physical security keys instead of SMS</li>
+<li>Use a password manager (1Pass, Lastpass, etc)</li>
+<li>Use secure messaging (Signal, Telegram, etc)</li>
+</ul>
+</li>
+</ul>
+<h2 id="other-comments">Other Comments</h2>
+<p>This is a compilation of tools that I&rsquo;ve found useful but is by no means an authortitative resource.</p>
+<ul>
+<li>If you need a custom tool, double check it hasn’t been already written</li>
+<li>If you’re copying lots of code, consider abstracting it to a separate class or function</li>
+</ul>
+<h2 id="resources">Resources</h2>
+<ul>
+<li>My Dot Files: <a href="https://github.com/JaredFern/DotFiles">https://github.com/JaredFern/DotFiles</a></li>
+<li>MIT Missing Semester Course: <a href="https://missing.csail.mit.edu/">https://missing.csail.mit.edu/</a></li>
+</ul>
 
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Type</div>
-          <div class="col-12 col-md-9">
-            
-            
-            <a href="/publication/#1">
-              Conference paper
-            </a>
-            
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
     </div>
-    <div class="d-md-none space-below"></div>
-    
-
-    
-
-    <div class="space-below"></div>
-
-    <div class="article-style"></div>
 
     
 
@@ -655,12 +825,6 @@
 
 
 
-
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/tag/embedddings/">embedddings</a>
-  
-</div>
 
 
 
@@ -675,7 +839,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://jaredfern.com/publication/vecshare/&amp;text=VecShare:%20A%20Framework%20for%20Sharing%20Word%20Representation%20Vectors" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://jaredfern.com/post/devops/&amp;text=Development%20Workflows%20for%20Researchers" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -688,7 +852,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://jaredfern.com/publication/vecshare/&amp;t=VecShare:%20A%20Framework%20for%20Sharing%20Word%20Representation%20Vectors" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://jaredfern.com/post/devops/&amp;t=Development%20Workflows%20for%20Researchers" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -701,7 +865,7 @@
       
       
       <li>
-        <a href="mailto:?subject=VecShare:%20A%20Framework%20for%20Sharing%20Word%20Representation%20Vectors&amp;body=https://jaredfern.com/publication/vecshare/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Development%20Workflows%20for%20Researchers&amp;body=https://jaredfern.com/post/devops/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -714,7 +878,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://jaredfern.com/publication/vecshare/&amp;title=VecShare:%20A%20Framework%20for%20Sharing%20Word%20Representation%20Vectors" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://jaredfern.com/post/devops/&amp;title=Development%20Workflows%20for%20Researchers" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -727,7 +891,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=VecShare:%20A%20Framework%20for%20Sharing%20Word%20Representation%20Vectors%20https://jaredfern.com/publication/vecshare/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Development%20Workflows%20for%20Researchers%20https://jaredfern.com/post/devops/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -740,7 +904,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://jaredfern.com/publication/vecshare/&amp;title=VecShare:%20A%20Framework%20for%20Sharing%20Word%20Representation%20Vectors" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://jaredfern.com/post/devops/&amp;title=Development%20Workflows%20for%20Researchers" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -859,28 +1023,6 @@
 
 
   
-    
-    
-
-
-
-
-
-  
-
-
-  
-    
-    
-
-
-
-
-
-  
-
-
-  
 
 
 
@@ -892,16 +1034,13 @@
 
 
 
-
-  
-  
 
 
 
 
 
   </div>
-</div>
+</article>
 
       
 
@@ -988,7 +1127,7 @@
   
 
   <p class="powered-by">
-    Last updated March 24, 2021.
+    Last updated March 9, 2021.
     <span class="float-right" aria-hidden="true">
       <a href="#" class="back-to-top">
         <span class="button_icon">
