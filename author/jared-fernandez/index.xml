@@ -5,12 +5,20 @@
     <link>https://jaredfern.com/author/jared-fernandez/</link>
       <atom:link href="https://jaredfern.com/author/jared-fernandez/index.xml" rel="self" type="application/rss+xml" />
     <description>Jared Fernandez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated April 8, 2021.</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated September 9, 2021.</copyright><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jaredfern.com/images/icon_hu08e2401af9c5e74302c664b7c55c659f_21507_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jaredfern.com/images/icon_hu08e2401af9c5e74302c664b7c55c659f_21507_512x512_fill_lanczos_center_3.png</url>
       <title>Jared Fernandez</title>
       <link>https://jaredfern.com/author/jared-fernandez/</link>
     </image>
+    
+    <item>
+      <title>CIGLI: Conditional Image Generation from Language and image</title>
+      <link>https://jaredfern.com/publication/cigli/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://jaredfern.com/publication/cigli/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Generative Data Augmentation for Commonsense Reasoning</title>
