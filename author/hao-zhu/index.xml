@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hao Zhu | Jared Fernandez</title>
+    <link>https://jaredfern.com/author/hao-zhu/</link>
+      <atom:link href="https://jaredfern.com/author/hao-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hao Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated December 4, 2021.</copyright><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jaredfern.com/images/icon_hu08e2401af9c5e74302c664b7c55c659f_21507_512x512_fill_lanczos_center_3.png</url>
+      <title>Hao Zhu</title>
+      <link>https://jaredfern.com/author/hao-zhu/</link>
+    </image>
+    
+    <item>
+      <title>CIGLI: Conditional Image Generation from Language and image</title>
+      <link>https://jaredfern.com/publication/cigli/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://jaredfern.com/publication/cigli/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
