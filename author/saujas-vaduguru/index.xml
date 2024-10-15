@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saujas Vaduguru | Jared Fernandez</title>
+    <link>https://jaredfern.com/author/saujas-vaduguru/</link>
+      <atom:link href="https://jaredfern.com/author/saujas-vaduguru/index.xml" rel="self" type="application/rss+xml" />
+    <description>Saujas Vaduguru</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated October 11, 2024.</copyright><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jaredfern.com/images/icon_hu10070990436265108561.png</url>
+      <title>Saujas Vaduguru</title>
+      <link>https://jaredfern.com/author/saujas-vaduguru/</link>
+    </image>
+    
+    <item>
+      <title>Adapting to Gradual Distribution Shifts with Continual Weight Averaging</title>
+      <link>https://jaredfern.com/publication/csaw/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://jaredfern.com/publication/csaw/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
