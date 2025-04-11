@@ -2,199 +2,220 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jaredfern.com/publication-type/3/</loc>
+    <loc>http://localhost:1313/publication-type/1/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/clara-na/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/efficiency/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/emma-strubell/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/energy/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/inference_energy/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/inference/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/jared-fernandez/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/jaredfern/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/kalyan-saladi/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication_types/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/sasha-luccioni/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/vashsisth-tiwari/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/yonatan-bisk/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/hardware-scaling/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/authors/</loc>
+    <loc>http://localhost:1313/author/jacob-kahn/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/tag/continual-learning/</loc>
+    <loc>http://localhost:1313/author/leonid-shamis/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/author/emma-strubell/</loc>
+    <loc>http://localhost:1313/author/luca-wehrstedt/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/publication/hardware-scaling/</loc>
+    <loc>http://localhost:1313/author/mostafa-elhoushi/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/author/jacob-kahn/</loc>
+    <loc>http://localhost:1313/tag/training/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jaredfern.com/author/jared-fernandez/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jaredfern.com/author/jaredfern/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jaredfern.com/author/kalyan-saladi/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jaredfern.com/author/leonid-shamis/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jaredfern.com/author/luca-wehrstedt/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jaredfern.com/author/mostafa-elhoushi/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jaredfern.com/publication_types/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jaredfern.com/publication/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jaredfern.com/tags/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jaredfern.com/author/yonatan-bisk/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jaredfern.com/author/clara-na/</loc>
+    <loc>http://localhost:1313/publication/olmo-impact/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/tag/efficiency/</loc>
+    <loc>http://localhost:1313/author/jacob-morrison/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/publication/olmo-impact/</loc>
+    <loc>http://localhost:1313/author/jesse-dodge/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/author/jacob-morrison/</loc>
+    <loc>http://localhost:1313/author/tim-dettmers/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/author/jesse-dodge/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jaredfern.com/author/tim-dettmers/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jaredfern.com/publication-type/1/</loc>
+    <loc>http://localhost:1313/tag/continual-learning/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/publication/gradient_trace/</loc>
+    <loc>http://localhost:1313/publication/gradient_trace/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/publication-type/4/</loc>
+    <loc>http://localhost:1313/publication-type/4/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/publication/csaw/</loc>
+    <loc>http://localhost:1313/publication/csaw/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/tag/distribution-shift/</loc>
+    <loc>http://localhost:1313/tag/distribution-shift/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/author/sanket-vaibhav-mehta/</loc>
+    <loc>http://localhost:1313/author/sanket-vaibhav-mehta/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/author/saujas-vaduguru/</loc>
+    <loc>http://localhost:1313/author/saujas-vaduguru/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/tag/weight-averaging/</loc>
+    <loc>http://localhost:1313/tag/weight-averaging/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/publication/framework/</loc>
+    <loc>http://localhost:1313/publication/framework/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/publication/cigli/</loc>
+    <loc>http://localhost:1313/publication/cigli/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/author/hao-zhu/</loc>
+    <loc>http://localhost:1313/author/hao-zhu/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/author/lynnette-ng/</loc>
+    <loc>http://localhost:1313/author/lynnette-ng/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/tag/multimodal/</loc>
+    <loc>http://localhost:1313/tag/multimodal/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/tag/reasoning/</loc>
+    <loc>http://localhost:1313/tag/reasoning/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/tag/vision-and-language/</loc>
+    <loc>http://localhost:1313/tag/vision-and-language/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/author/xiaopeng-lu/</loc>
+    <loc>http://localhost:1313/author/xiaopeng-lu/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/author/chaitanya-malaviya/</loc>
+    <loc>http://localhost:1313/publication-type/2/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/author/chandra-bhagavatula/</loc>
+    <loc>http://localhost:1313/author/chaitanya-malaviya/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/tag/commonsense/</loc>
+    <loc>http://localhost:1313/author/chandra-bhagavatula/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/tag/data-augmentation/</loc>
+    <loc>http://localhost:1313/tag/commonsense/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/author/doug-downey/</loc>
+    <loc>http://localhost:1313/tag/data-augmentation/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/publication/gdaug/</loc>
+    <loc>http://localhost:1313/author/doug-downey/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/author/ji-ping-wang/</loc>
+    <loc>http://localhost:1313/publication/gdaug/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/tag/question-answering/</loc>
+    <loc>http://localhost:1313/author/ji-ping-wang/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/author/ronan-le-bras/</loc>
+    <loc>http://localhost:1313/tag/question-answering/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/author/swabha-swayamdipta/</loc>
+    <loc>http://localhost:1313/author/ronan-le-bras/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/author/yejin-choi/</loc>
+    <loc>http://localhost:1313/author/swabha-swayamdipta/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/author/yiben-yang/</loc>
+    <loc>http://localhost:1313/author/yejin-choi/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/author/alisa-liu/</loc>
+    <loc>http://localhost:1313/author/yiben-yang/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/alisa-liu/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/publication/codah/</loc>
+    <loc>http://localhost:1313/publication/codah/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/tag/common-sense/</loc>
+    <loc>http://localhost:1313/tag/common-sense/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/tag/dataset/</loc>
+    <loc>http://localhost:1313/tag/dataset/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/author/michael-chen/</loc>
+    <loc>http://localhost:1313/author/michael-chen/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/author/mike-darcy/</loc>
+    <loc>http://localhost:1313/author/mike-darcy/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/tag/language-modeling/</loc>
+    <loc>http://localhost:1313/publication-type/3/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/tag/rnnlm/</loc>
+    <loc>http://localhost:1313/tag/language-modeling/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/publication/rnn-is/</loc>
+    <loc>http://localhost:1313/tag/rnnlm/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/tag/embedddings/</loc>
+    <loc>http://localhost:1313/publication/rnn-is/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/embedddings/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/publication/vecshare/</loc>
+    <loc>http://localhost:1313/publication/vecshare/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/author/zhaocheng-yu/</loc>
+    <loc>http://localhost:1313/author/zhaocheng-yu/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://jaredfern.com/author/jared-fernandez/</loc>
+    <loc>http://localhost:1313/author/jared-fernandez/</loc>
   </url><url>
-    <loc>https://jaredfern.com/talk/</loc>
+    <loc>http://localhost:1313/talk/</loc>
   </url>
 </urlset>

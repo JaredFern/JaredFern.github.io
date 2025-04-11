@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Training | Jared Fernandez</title>
+    <link>http://localhost:1313/tag/training/</link>
+      <atom:link href="http://localhost:1313/tag/training/index.xml" rel="self" type="application/rss+xml" />
+    <description>Training</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated April 11, 2025.</copyright><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/images/icon_hu_30824fa082800a1a.png</url>
+      <title>Training</title>
+      <link>http://localhost:1313/tag/training/</link>
+    </image>
+    
+    <item>
+      <title>Hardware Scaling Trends and Diminishing Returns in Large-Scale Distributed Training</title>
+      <link>http://localhost:1313/publication/hardware-scaling/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hardware-scaling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

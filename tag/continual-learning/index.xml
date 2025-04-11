@@ -2,29 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Continual-Learning | Jared Fernandez</title>
-    <link>https://jaredfern.com/tag/continual-learning/</link>
-      <atom:link href="https://jaredfern.com/tag/continual-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/continual-learning/</link>
+      <atom:link href="http://localhost:1313/tag/continual-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Continual-Learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated October 11, 2024.</copyright><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated April 11, 2025.</copyright><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jaredfern.com/images/icon_hu10070990436265108561.png</url>
+      <url>http://localhost:1313/images/icon_hu_30824fa082800a1a.png</url>
       <title>Continual-Learning</title>
-      <link>https://jaredfern.com/tag/continual-learning/</link>
+      <link>http://localhost:1313/tag/continual-learning/</link>
     </image>
     
     <item>
-      <title>Hardware Scaling Trends and Diminishing Returns in Large-Scale Distributed Training</title>
-      <link>https://jaredfern.com/publication/hardware-scaling/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://jaredfern.com/publication/hardware-scaling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gradient Localization Improves Lifelong Pretraining of Language Models</title>
-      <link>https://jaredfern.com/publication/gradient_trace/</link>
+      <link>http://localhost:1313/publication/gradient_trace/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://jaredfern.com/publication/gradient_trace/</guid>
+      <guid>http://localhost:1313/publication/gradient_trace/</guid>
       <description></description>
     </item>
     
