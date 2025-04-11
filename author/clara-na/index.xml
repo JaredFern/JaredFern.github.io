@@ -5,12 +5,28 @@
     <link>https://jaredfern.com/author/clara-na/</link>
       <atom:link href="https://jaredfern.com/author/clara-na/index.xml" rel="self" type="application/rss+xml" />
     <description>Clara Na</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated October 11, 2023.</copyright><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated April 11, 2025.</copyright><lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jaredfern.com/images/icon_hu08e2401af9c5e74302c664b7c55c659f_21507_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jaredfern.com/images/icon_hu_30824fa082800a1a.png</url>
       <title>Clara Na</title>
       <link>https://jaredfern.com/author/clara-na/</link>
     </image>
+    
+    <item>
+      <title>Energy Considerations of Large Language Model Inference and Efficiency Optimizations</title>
+      <link>https://jaredfern.com/publication/inference_energy/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://jaredfern.com/publication/inference_energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holistically Evaluating the Environmental Impact of Creating Language Models</title>
+      <link>https://jaredfern.com/publication/olmo-impact/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://jaredfern.com/publication/olmo-impact/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Framework Tax: Disparities Between Inference Efficiency in Research and Deployment</title>

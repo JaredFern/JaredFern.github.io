@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jesse Dodge | Jared Fernandez</title>
+    <link>https://jaredfern.com/author/jesse-dodge/</link>
+      <atom:link href="https://jaredfern.com/author/jesse-dodge/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jesse Dodge</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated April 11, 2025.</copyright><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jaredfern.com/images/icon_hu_30824fa082800a1a.png</url>
+      <title>Jesse Dodge</title>
+      <link>https://jaredfern.com/author/jesse-dodge/</link>
+    </image>
+    
+    <item>
+      <title>Holistically Evaluating the Environmental Impact of Creating Language Models</title>
+      <link>https://jaredfern.com/publication/olmo-impact/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://jaredfern.com/publication/olmo-impact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
