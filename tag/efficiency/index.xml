@@ -5,12 +5,24 @@
     <link>https://jaredfern.com/tag/efficiency/</link>
       <atom:link href="https://jaredfern.com/tag/efficiency/index.xml" rel="self" type="application/rss+xml" />
     <description>efficiency</description>
+<<<<<<< HEAD
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated December 4, 2021.</copyright><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+=======
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated October 11, 2023.</copyright><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+>>>>>>> master
     <image>
       <url>https://jaredfern.com/images/icon_hu08e2401af9c5e74302c664b7c55c659f_21507_512x512_fill_lanczos_center_3.png</url>
       <title>efficiency</title>
       <link>https://jaredfern.com/tag/efficiency/</link>
     </image>
+    
+    <item>
+      <title>The Framework Tax: Disparities Between Inference Efficiency in Research and Deployment</title>
+      <link>https://jaredfern.com/publication/framework/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://jaredfern.com/publication/framework/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sampling Informative Training Data for RNN Language Models</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>weight averaging | Jared Fernandez</title>
+    <link>https://jaredfern.com/tag/weight-averaging/</link>
+      <atom:link href="https://jaredfern.com/tag/weight-averaging/index.xml" rel="self" type="application/rss+xml" />
+    <description>weight averaging</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated October 11, 2023.</copyright><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jaredfern.com/images/icon_hu08e2401af9c5e74302c664b7c55c659f_21507_512x512_fill_lanczos_center_3.png</url>
+      <title>weight averaging</title>
+      <link>https://jaredfern.com/tag/weight-averaging/</link>
+    </image>
+    
+    <item>
+      <title>Adapting to Gradual Distribution Shifts with Continual Weight Averaging</title>
+      <link>https://jaredfern.com/publication/csaw/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://jaredfern.com/publication/csaw/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
