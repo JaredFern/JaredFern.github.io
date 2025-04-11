@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Continual-Learning | Jared Fernandez</title>
+    <link>https://jaredfern.com/tag/continual-learning/</link>
+      <atom:link href="https://jaredfern.com/tag/continual-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Continual-Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated April 11, 2025.</copyright><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jaredfern.com/images/icon_hu_30824fa082800a1a.png</url>
+      <title>Continual-Learning</title>
+      <link>https://jaredfern.com/tag/continual-learning/</link>
+    </image>
+    
+    <item>
+      <title>Gradient Localization Improves Lifelong Pretraining of Language Models</title>
+      <link>https://jaredfern.com/publication/gradient_trace/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://jaredfern.com/publication/gradient_trace/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,36 +3,102 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jaredfern.com/publication-type/1/</loc>
-<<<<<<< HEAD
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jaredfern.com/authors/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-=======
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jaredfern.com/author/clara-na/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jaredfern.com/tag/efficiency/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jaredfern.com/author/emma-strubell/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jaredfern.com/tag/energy/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jaredfern.com/publication/inference_energy/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jaredfern.com/tag/inference/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jaredfern.com/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jaredfern.com/author/jared-fernandez/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jaredfern.com/author/jaredfern/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jaredfern.com/author/kalyan-saladi/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jaredfern.com/publication_types/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jaredfern.com/publication/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jaredfern.com/author/sasha-luccioni/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jaredfern.com/tags/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jaredfern.com/author/vashsisth-tiwari/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jaredfern.com/author/yonatan-bisk/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jaredfern.com/publication/hardware-scaling/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jaredfern.com/author/jacob-kahn/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jaredfern.com/author/leonid-shamis/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jaredfern.com/author/luca-wehrstedt/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jaredfern.com/author/mostafa-elhoushi/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jaredfern.com/tag/training/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jaredfern.com/publication/olmo-impact/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jaredfern.com/author/jacob-morrison/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jaredfern.com/author/jesse-dodge/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jaredfern.com/author/tim-dettmers/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jaredfern.com/tag/continual-learning/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jaredfern.com/publication/gradient_trace/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jaredfern.com/publication-type/4/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jaredfern.com/publication/csaw/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/authors/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://jaredfern.com/tag/distribution-shift/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jaredfern.com/author/emma-strubell/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jaredfern.com/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jaredfern.com/author/jared-fernandez/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jaredfern.com/publication_types/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jaredfern.com/publication/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jaredfern.com/author/sanket-vaibhav-mehta/</loc>
@@ -41,27 +107,11 @@
     <loc>https://jaredfern.com/author/saujas-vaduguru/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/tags/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://jaredfern.com/tag/weight-averaging/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/author/yonatan-bisk/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jaredfern.com/author/clara-na/</loc>
-    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jaredfern.com/tag/efficiency/</loc>
-    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jaredfern.com/author/jacob-kahn/</loc>
-    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://jaredfern.com/publication/framework/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
->>>>>>> master
   </url><url>
     <loc>https://jaredfern.com/publication/cigli/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
@@ -69,44 +119,23 @@
     <loc>https://jaredfern.com/author/hao-zhu/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-<<<<<<< HEAD
-    <loc>https://jaredfern.com/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jaredfern.com/author/jared-fernandez/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-=======
->>>>>>> master
     <loc>https://jaredfern.com/author/lynnette-ng/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jaredfern.com/tag/multimodal/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-<<<<<<< HEAD
-    <loc>https://jaredfern.com/publication_types/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jaredfern.com/publication/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://jaredfern.com/tag/reasoning/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jaredfern.com/tags/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-=======
-    <loc>https://jaredfern.com/tag/reasoning/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
->>>>>>> master
     <loc>https://jaredfern.com/tag/vision-and-language/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jaredfern.com/author/xiaopeng-lu/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jaredfern.com/publication-type/2/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jaredfern.com/author/chaitanya-malaviya/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
@@ -162,12 +191,9 @@
     <loc>https://jaredfern.com/author/mike-darcy/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url><url>
-<<<<<<< HEAD
-    <loc>https://jaredfern.com/tag/efficiency/</loc>
+    <loc>https://jaredfern.com/publication-type/3/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url><url>
-=======
->>>>>>> master
     <loc>https://jaredfern.com/tag/language-modeling/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -187,6 +213,8 @@
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jaredfern.com/categories/</loc>
+  </url><url>
+    <loc>https://jaredfern.com/author/jared-fernandez/</loc>
   </url><url>
     <loc>https://jaredfern.com/talk/</loc>
   </url>
