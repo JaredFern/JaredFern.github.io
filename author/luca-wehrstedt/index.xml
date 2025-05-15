@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Luca Wehrstedt | Jared Fernandez</title>
-    <link>http://localhost:1313/author/luca-wehrstedt/</link>
-      <atom:link href="http://localhost:1313/author/luca-wehrstedt/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jaredfern.com/author/luca-wehrstedt/</link>
+      <atom:link href="https://jaredfern.com/author/luca-wehrstedt/index.xml" rel="self" type="application/rss+xml" />
     <description>Luca Wehrstedt</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated April 11, 2025.</copyright><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu_30824fa082800a1a.png</url>
+      <url>https://jaredfern.com/images/icon_hu_30824fa082800a1a.png</url>
       <title>Luca Wehrstedt</title>
-      <link>http://localhost:1313/author/luca-wehrstedt/</link>
+      <link>https://jaredfern.com/author/luca-wehrstedt/</link>
     </image>
     
     <item>
       <title>Hardware Scaling Trends and Diminishing Returns in Large-Scale Distributed Training</title>
-      <link>http://localhost:1313/publication/hardware-scaling/</link>
+      <link>https://jaredfern.com/publication/hardware-scaling/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hardware-scaling/</guid>
+      <guid>https://jaredfern.com/publication/hardware-scaling/</guid>
       <description></description>
     </item>
     

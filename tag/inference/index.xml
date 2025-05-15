@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Inference | Jared Fernandez</title>
-    <link>http://localhost:1313/tag/inference/</link>
-      <atom:link href="http://localhost:1313/tag/inference/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jaredfern.com/tag/inference/</link>
+      <atom:link href="https://jaredfern.com/tag/inference/index.xml" rel="self" type="application/rss+xml" />
     <description>Inference</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated April 11, 2025.</copyright><lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu_30824fa082800a1a.png</url>
+      <url>https://jaredfern.com/images/icon_hu_30824fa082800a1a.png</url>
       <title>Inference</title>
-      <link>http://localhost:1313/tag/inference/</link>
+      <link>https://jaredfern.com/tag/inference/</link>
     </image>
     
     <item>
       <title>Energy Considerations of Large Language Model Inference and Efficiency Optimizations</title>
-      <link>http://localhost:1313/publication/inference_energy/</link>
+      <link>https://jaredfern.com/publication/inference_energy/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/inference_energy/</guid>
+      <guid>https://jaredfern.com/publication/inference_energy/</guid>
       <description></description>
     </item>
     

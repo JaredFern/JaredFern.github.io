@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jaredfern | Jared Fernandez</title>
-    <link>http://localhost:1313/author/jaredfern/</link>
-      <atom:link href="http://localhost:1313/author/jaredfern/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jaredfern.com/author/jaredfern/</link>
+      <atom:link href="https://jaredfern.com/author/jaredfern/index.xml" rel="self" type="application/rss+xml" />
     <description>Jaredfern</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated April 11, 2025.</copyright><lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu_30824fa082800a1a.png</url>
+      <url>https://jaredfern.com/images/icon_hu_30824fa082800a1a.png</url>
       <title>Jaredfern</title>
-      <link>http://localhost:1313/author/jaredfern/</link>
+      <link>https://jaredfern.com/author/jaredfern/</link>
     </image>
     
     <item>
       <title>Jared Fernandez</title>
-      <link>http://localhost:1313/author/jared-fernandez/</link>
+      <link>https://jaredfern.com/author/jared-fernandez/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/jared-fernandez/</guid>
+      <guid>https://jaredfern.com/author/jared-fernandez/</guid>
       <description>&lt;p&gt;I am a doctoral student in the 
 &lt;a href=&#34;https://lti.cs.cmu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Language Technologies Institute&lt;/a&gt; at 
 &lt;a href=&#34;https://cmu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carnegie Mellon University&lt;/a&gt; where I am advised by 
@@ -43,9 +43,9 @@ $\qquad$ [Nov. 2019] $\quad$ Starting fulltime as a Software Engineer at Google!
     
     <item>
       <title>Jared Fernandez</title>
-      <link>http://localhost:1313/author/jared-fernandez/</link>
+      <link>https://jaredfern.com/author/jared-fernandez/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/jared-fernandez/</guid>
+      <guid>https://jaredfern.com/author/jared-fernandez/</guid>
       <description>&lt;p&gt;I am a doctoral student in the 
 &lt;a href=&#34;https://lti.cs.cmu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Language Technologies Institute&lt;/a&gt; at 
 &lt;a href=&#34;https://cmu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carnegie Mellon University&lt;/a&gt; where I am advised by 

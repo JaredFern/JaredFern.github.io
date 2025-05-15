@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sanket Vaibhav Mehta | Jared Fernandez</title>
-    <link>http://localhost:1313/author/sanket-vaibhav-mehta/</link>
-      <atom:link href="http://localhost:1313/author/sanket-vaibhav-mehta/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jaredfern.com/author/sanket-vaibhav-mehta/</link>
+      <atom:link href="https://jaredfern.com/author/sanket-vaibhav-mehta/index.xml" rel="self" type="application/rss+xml" />
     <description>Sanket Vaibhav Mehta</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated April 11, 2025.</copyright><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu_30824fa082800a1a.png</url>
+      <url>https://jaredfern.com/images/icon_hu_30824fa082800a1a.png</url>
       <title>Sanket Vaibhav Mehta</title>
-      <link>http://localhost:1313/author/sanket-vaibhav-mehta/</link>
+      <link>https://jaredfern.com/author/sanket-vaibhav-mehta/</link>
     </image>
     
     <item>
       <title>Adapting to Gradual Distribution Shifts with Continual Weight Averaging</title>
-      <link>http://localhost:1313/publication/csaw/</link>
+      <link>https://jaredfern.com/publication/csaw/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/csaw/</guid>
+      <guid>https://jaredfern.com/publication/csaw/</guid>
       <description></description>
     </item>
     

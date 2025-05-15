@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Jared Fernandez</title>
-    <link>http://localhost:1313/publication/</link>
-      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jaredfern.com/publication/</link>
+      <atom:link href="https://jaredfern.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated April 11, 2025.</copyright><lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu_30824fa082800a1a.png</url>
+      <url>https://jaredfern.com/images/icon_hu_30824fa082800a1a.png</url>
       <title>Publications</title>
-      <link>http://localhost:1313/publication/</link>
+      <link>https://jaredfern.com/publication/</link>
     </image>
     
     <item>
       <title>Energy Considerations of Large Language Model Inference and Efficiency Optimizations</title>
-      <link>http://localhost:1313/publication/inference_energy/</link>
+      <link>https://jaredfern.com/publication/inference_energy/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/inference_energy/</guid>
+      <guid>https://jaredfern.com/publication/inference_energy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hardware Scaling Trends and Diminishing Returns in Large-Scale Distributed Training</title>
-      <link>http://localhost:1313/publication/hardware-scaling/</link>
+      <link>https://jaredfern.com/publication/hardware-scaling/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hardware-scaling/</guid>
+      <guid>https://jaredfern.com/publication/hardware-scaling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Holistically Evaluating the Environmental Impact of Creating Language Models</title>
-      <link>http://localhost:1313/publication/olmo-impact/</link>
+      <link>https://jaredfern.com/publication/olmo-impact/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/olmo-impact/</guid>
+      <guid>https://jaredfern.com/publication/olmo-impact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gradient Localization Improves Lifelong Pretraining of Language Models</title>
-      <link>http://localhost:1313/publication/gradient_trace/</link>
+      <link>https://jaredfern.com/publication/gradient_trace/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gradient_trace/</guid>
+      <guid>https://jaredfern.com/publication/gradient_trace/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adapting to Gradual Distribution Shifts with Continual Weight Averaging</title>
-      <link>http://localhost:1313/publication/csaw/</link>
+      <link>https://jaredfern.com/publication/csaw/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/csaw/</guid>
+      <guid>https://jaredfern.com/publication/csaw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Framework Tax: Disparities Between Inference Efficiency in Research and Deployment</title>
-      <link>http://localhost:1313/publication/framework/</link>
+      <link>https://jaredfern.com/publication/framework/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/framework/</guid>
+      <guid>https://jaredfern.com/publication/framework/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CIGLI: Conditional Image Generation from Language and image</title>
-      <link>http://localhost:1313/publication/cigli/</link>
+      <link>https://jaredfern.com/publication/cigli/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/cigli/</guid>
+      <guid>https://jaredfern.com/publication/cigli/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generative Data Augmentation for Commonsense Reasoning</title>
-      <link>http://localhost:1313/publication/gdaug/</link>
+      <link>https://jaredfern.com/publication/gdaug/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gdaug/</guid>
+      <guid>https://jaredfern.com/publication/gdaug/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CODAH: An Adversarially Authored Question-Answer Dataset for Common Sense</title>
-      <link>http://localhost:1313/publication/codah/</link>
+      <link>https://jaredfern.com/publication/codah/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/codah/</guid>
+      <guid>https://jaredfern.com/publication/codah/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sampling Informative Training Data for RNN Language Models</title>
-      <link>http://localhost:1313/publication/rnn-is/</link>
+      <link>https://jaredfern.com/publication/rnn-is/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rnn-is/</guid>
+      <guid>https://jaredfern.com/publication/rnn-is/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VecShare: A Framework for Sharing Word Representation Vectors</title>
-      <link>http://localhost:1313/publication/vecshare/</link>
+      <link>https://jaredfern.com/publication/vecshare/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/vecshare/</guid>
+      <guid>https://jaredfern.com/publication/vecshare/</guid>
       <description></description>
     </item>
     

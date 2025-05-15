@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jacob Morrison | Jared Fernandez</title>
-    <link>http://localhost:1313/author/jacob-morrison/</link>
-      <atom:link href="http://localhost:1313/author/jacob-morrison/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jaredfern.com/author/jacob-morrison/</link>
+      <atom:link href="https://jaredfern.com/author/jacob-morrison/index.xml" rel="self" type="application/rss+xml" />
     <description>Jacob Morrison</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated April 11, 2025.</copyright><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu_30824fa082800a1a.png</url>
+      <url>https://jaredfern.com/images/icon_hu_30824fa082800a1a.png</url>
       <title>Jacob Morrison</title>
-      <link>http://localhost:1313/author/jacob-morrison/</link>
+      <link>https://jaredfern.com/author/jacob-morrison/</link>
     </image>
     
     <item>
       <title>Holistically Evaluating the Environmental Impact of Creating Language Models</title>
-      <link>http://localhost:1313/publication/olmo-impact/</link>
+      <link>https://jaredfern.com/publication/olmo-impact/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/olmo-impact/</guid>
+      <guid>https://jaredfern.com/publication/olmo-impact/</guid>
       <description></description>
     </item>
     

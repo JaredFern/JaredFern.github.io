@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chaitanya Malaviya | Jared Fernandez</title>
-    <link>http://localhost:1313/author/chaitanya-malaviya/</link>
-      <atom:link href="http://localhost:1313/author/chaitanya-malaviya/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jaredfern.com/author/chaitanya-malaviya/</link>
+      <atom:link href="https://jaredfern.com/author/chaitanya-malaviya/index.xml" rel="self" type="application/rss+xml" />
     <description>Chaitanya Malaviya</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated April 11, 2025.</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu_30824fa082800a1a.png</url>
+      <url>https://jaredfern.com/images/icon_hu_30824fa082800a1a.png</url>
       <title>Chaitanya Malaviya</title>
-      <link>http://localhost:1313/author/chaitanya-malaviya/</link>
+      <link>https://jaredfern.com/author/chaitanya-malaviya/</link>
     </image>
     
     <item>
       <title>Generative Data Augmentation for Commonsense Reasoning</title>
-      <link>http://localhost:1313/publication/gdaug/</link>
+      <link>https://jaredfern.com/publication/gdaug/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gdaug/</guid>
+      <guid>https://jaredfern.com/publication/gdaug/</guid>
       <description></description>
     </item>
     
