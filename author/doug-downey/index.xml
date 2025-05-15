@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Doug Downey | Jared Fernandez</title>
-    <link>https://jaredfern.com/author/doug-downey/</link>
-      <atom:link href="https://jaredfern.com/author/doug-downey/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/doug-downey/</link>
+      <atom:link href="http://localhost:1313/author/doug-downey/index.xml" rel="self" type="application/rss+xml" />
     <description>Doug Downey</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated April 11, 2025.</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jaredfern.com/images/icon_hu_30824fa082800a1a.png</url>
+      <url>http://localhost:1313/images/icon_hu_30824fa082800a1a.png</url>
       <title>Doug Downey</title>
-      <link>https://jaredfern.com/author/doug-downey/</link>
+      <link>http://localhost:1313/author/doug-downey/</link>
     </image>
     
     <item>
       <title>Generative Data Augmentation for Commonsense Reasoning</title>
-      <link>https://jaredfern.com/publication/gdaug/</link>
+      <link>http://localhost:1313/publication/gdaug/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://jaredfern.com/publication/gdaug/</guid>
+      <guid>http://localhost:1313/publication/gdaug/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CODAH: An Adversarially Authored Question-Answer Dataset for Common Sense</title>
-      <link>https://jaredfern.com/publication/codah/</link>
+      <link>http://localhost:1313/publication/codah/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://jaredfern.com/publication/codah/</guid>
+      <guid>http://localhost:1313/publication/codah/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sampling Informative Training Data for RNN Language Models</title>
-      <link>https://jaredfern.com/publication/rnn-is/</link>
+      <link>http://localhost:1313/publication/rnn-is/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://jaredfern.com/publication/rnn-is/</guid>
+      <guid>http://localhost:1313/publication/rnn-is/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VecShare: A Framework for Sharing Word Representation Vectors</title>
-      <link>https://jaredfern.com/publication/vecshare/</link>
+      <link>http://localhost:1313/publication/vecshare/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://jaredfern.com/publication/vecshare/</guid>
+      <guid>http://localhost:1313/publication/vecshare/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vashsisth Tiwari | Jared Fernandez</title>
-    <link>https://jaredfern.com/author/vashsisth-tiwari/</link>
-      <atom:link href="https://jaredfern.com/author/vashsisth-tiwari/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/vashsisth-tiwari/</link>
+      <atom:link href="http://localhost:1313/author/vashsisth-tiwari/index.xml" rel="self" type="application/rss+xml" />
     <description>Vashsisth Tiwari</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated April 11, 2025.</copyright><lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jaredfern.com/images/icon_hu_30824fa082800a1a.png</url>
+      <url>http://localhost:1313/images/icon_hu_30824fa082800a1a.png</url>
       <title>Vashsisth Tiwari</title>
-      <link>https://jaredfern.com/author/vashsisth-tiwari/</link>
+      <link>http://localhost:1313/author/vashsisth-tiwari/</link>
     </image>
     
     <item>
       <title>Energy Considerations of Large Language Model Inference and Efficiency Optimizations</title>
-      <link>https://jaredfern.com/publication/inference_energy/</link>
+      <link>http://localhost:1313/publication/inference_energy/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://jaredfern.com/publication/inference_energy/</guid>
+      <guid>http://localhost:1313/publication/inference_energy/</guid>
       <description></description>
     </item>
     
