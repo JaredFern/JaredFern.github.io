@@ -35,9 +35,6 @@
     <loc>http://localhost:1313/author/jaredfern/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/kalyan-saladi/</loc>
-    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/publication_types/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -60,6 +57,9 @@
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/jacob-kahn/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/kalyan-saladi/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/leonid-shamis/</loc>
