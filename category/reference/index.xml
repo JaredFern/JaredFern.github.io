@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reference | Jared Fernandez</title>
+    <link>https://jaredfern.com/category/reference/</link>
+      <atom:link href="https://jaredfern.com/category/reference/index.xml" rel="self" type="application/rss+xml" />
+    <description>reference</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated March 9, 2021.</copyright><lastBuildDate>Thu, 12 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jaredfern.com/images/icon_hu08e2401af9c5e74302c664b7c55c659f_21507_512x512_fill_lanczos_center_2.png</url>
+      <title>reference</title>
+      <link>https://jaredfern.com/category/reference/</link>
+    </image>
+    
+    <item>
+      <title>Development Workflows for Researchers</title>
+      <link>https://jaredfern.com/post/project_management/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://jaredfern.com/post/project_management/</guid>
+      <description>&lt;p&gt;Research in computer science can often involve working with large code bases and scalable systems. We want to spend time on science rather than on [debugging, deployment, etc].&lt;/p&gt;
+&lt;p&gt;Knowing your tooling and designing your projects according to best practices can accelerate your research workflow so you can focus on higher level problems.&lt;/p&gt;
+&lt;h2 id=&#34;working-on-the-command-line&#34;&gt;Working on the Command Line&lt;/h2&gt;
+&lt;p&gt;Shells are powerful, fast, and extensible &amp;ndash; with many useful tools to make your life easier. Commandline development can be much faster than heavyweight editors, IDEs, or GUIs.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Z Shell (zsh): A more customizable shell than bash
+&lt;ul&gt;
+&lt;li&gt;Plenty of 
+&lt;a href=&#34;https://ohmyz.sh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plugins&lt;/a&gt; &amp;amp; 
+&lt;a href=&#34;https://github.com/romkatv/powerlevel10k&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;themes&lt;/a&gt; to make reading and navigating your terminal easier&lt;/li&gt;
+&lt;li&gt;Quality-of-life improvements such as: FZF, Autosuggestions, syntax highlighting, indicators for virtual environments, and more.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Vim: Fast navigation, scripting using a modal editor
+&lt;ul&gt;
+&lt;li&gt;Apply Vi bindings to other inputs:
+&lt;ul&gt;
+&lt;li&gt;Zsh: &lt;code&gt;Bindkey -v; set-editing-mode&amp;quot;; &amp;gt;&amp;gt; ~/.zshrc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Readline:  &lt;code&gt;set editing-mode vi; set keymap vi;&amp;quot; &amp;gt;&amp;gt; ~/.inputrc&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Highly customizable with plenty of nice plugins
+&lt;ul&gt;
+&lt;li&gt;Readability: Line Numbers, NerdTree, Taglist, Airline, vim-polyglot&lt;/li&gt;
+&lt;li&gt;Editing: Commentary, AutoComplete (or CoC), GitGutter, Visual Multiline, Fzf&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tmux (or GNU Screen): Close your laptop lid without losing your work (and a lot more)
+&lt;ul&gt;
+&lt;li&gt;Multiple windows and multiple panes: Preserve windowing and splits&lt;/li&gt;
+&lt;li&gt;Useful when working on remote servers over multiple sessions&lt;/li&gt;
+&lt;li&gt;Extensions: Tmuxinator, Tmuxline&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Useful Unix Commands:
+&lt;ul&gt;
+&lt;li&gt;Basic Unix Commands:  less, man, grep, sed, sort, regex, awk, piping (‘|’), wc, uniq, cut, paste, head, strings, &amp;amp;&amp;raquo; (io redirection)&lt;/li&gt;
+&lt;li&gt;Filesystem: ls -l, cd -, du, df, which, diff, md5sum, rsync &amp;raquo; scp -R, sl, find, du -h &amp;ndash;max-depth=N&lt;/li&gt;
+&lt;li&gt;System Monitoring: speedtest (ping), htop (vtop), watch, gpustat (nvidia-smi)&lt;/li&gt;
+&lt;li&gt;Some other things: Ctrl+z (fg, bg), Reverse I-Search, xclip, thefuck, history&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;personalizing-your-shell&#34;&gt;Personalizing Your Shell&lt;/h2&gt;
+&lt;p&gt;Setting up your environment can be quite a lot of work, but writing clean config files means that you can port them to (almost) any machine.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dotfiles &amp;amp; Your Shell Environment:
+&lt;ul&gt;
+&lt;li&gt;Startup Files: Profile vs. Env vs. Rc&lt;/li&gt;
+&lt;li&gt;Customize your editor and shell environments: .vimrc &amp;amp; .zshrc&lt;/li&gt;
+&lt;li&gt;Add plugins for common use cases&lt;/li&gt;
+&lt;li&gt;Adding aliases for commands and global functions&lt;/li&gt;
+&lt;li&gt;Add environment variables for frequently used commands&lt;/li&gt;
+&lt;li&gt;Store a repo of your dotfiles so you can transfer configs across machines: Here’s mine&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Keyboard Remapping:
+&lt;ul&gt;
+&lt;li&gt;Modifier/Prefix keys for terminal and application controls (i.e. tmux with vim bindings)&lt;/li&gt;
+&lt;li&gt;Remapping unused keys to useful ones:
+&lt;ul&gt;
+&lt;li&gt;Caps Lock, PrintScr -&amp;gt; Ctrl, Cmd, Esc&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Window management: Moving between workspaces and windows&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;writing-clean-code&#34;&gt;Writing Clean Code&lt;/h2&gt;
+&lt;p&gt;Good project and code management can increase readability and reduce time spent debugging.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Version Controlling with Git: More than [add, commit, push]
+&lt;ul&gt;
+&lt;li&gt;Basic Commands: Checkout, branch, remote, diff&lt;/li&gt;
+&lt;li&gt;git add -p: Add code in hunks and verify your changes (instead of pull files)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Pre-commit Checks:
+&lt;ul&gt;
+&lt;li&gt;Fix syntax and style mistakes before you commit or experiment&lt;/li&gt;
+&lt;li&gt;Formatters ensure your code is [syntax + compilable, formatted, linted]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Effectively using your Editor &amp;amp; IDE: If it’s using all that RAM it better be doing work
+&lt;ul&gt;
+&lt;li&gt;Common Features:
+&lt;ul&gt;
+&lt;li&gt;File structure: Show your classes, functions, variable scopes&lt;/li&gt;
+&lt;li&gt;Call Graphs: goto declaration, definition, etc&lt;/li&gt;
+&lt;li&gt;Deployment: SFTP and auto-upload your code from inside your IDE&lt;/li&gt;
+&lt;li&gt;Version Control: Tools for merging, checkout and branch management&lt;/li&gt;
+&lt;li&gt;Debugging: Set breakpoints&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Organizing Project Workspaces
+&lt;ul&gt;
+&lt;li&gt;Separate binaries from libraries:&lt;/li&gt;
+&lt;li&gt;Executables should only argparse and call the library&lt;/li&gt;
+&lt;li&gt;Stay organized - Directories for configs, logs, data, shell scripts, utils&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;managing-dependencies&#34;&gt;Managing Dependencies&lt;/h2&gt;
+&lt;p&gt;Virtual environments and containers manage libraries and system-level dependencies across projects. These may be necessary especially when a build requires tool versions not supported by the machine&amp;rsquo;s base operating system.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Virtual Environments: Controlling python-level dependencies (conda, pip, venv)
+&lt;ul&gt;
+&lt;li&gt;Export your environments with environment.yml (conda) or requirements.txt (pip) files&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Containers: Controlling system level dependencies
+&lt;ul&gt;
+&lt;li&gt;Run a virtual container of an OS and your dependencies while maintaining access to the machine’s real file system&lt;/li&gt;
+&lt;li&gt;How to use Docker/Singularity:
+&lt;ol&gt;
+&lt;li&gt;Specify your dependencies in a Dockerfile or Singularity&lt;/li&gt;
+&lt;li&gt;Get a container image by: Pulling from a remote, Building from your config file&lt;/li&gt;
+&lt;li&gt;Specify your binds: Resources (Tasks, CUDA devices), file paths&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Docker vs Singularity:
+&lt;ul&gt;
+&lt;li&gt;They are interoperable! You can build a Singularity image from a DockerFile&lt;/li&gt;
+&lt;li&gt;Docker manages its own images, Singularity stores images as standard .sif files&lt;/li&gt;
+&lt;li&gt;Singularity is more compatible with HPC clusters because it is run as its own job rather than being managed by the docker daemon&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Kubernetes (K8): Deploying docker containers to multiple servers at scale&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Some Useful Computational Packages and Tools:
+&lt;ul&gt;
+&lt;li&gt;High Volume Storage &amp;amp; Databases: Lmdb, Msgpack&lt;/li&gt;
+&lt;li&gt;Computation: Numpy, scipy, scikit, tensorflow, torch, keras, JAX, pandas, nltk&lt;/li&gt;
+&lt;li&gt;Distributed Training: Horovod, Apex (with Mixed precision), Torch DistributedData&lt;/li&gt;
+&lt;li&gt;Process &amp;amp; Job Management: multiprocessing, wandb&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;deployment-and-experimentation&#34;&gt;Deployment and Experimentation&lt;/h2&gt;
+&lt;p&gt;Developing a deployment framework for committing and running experiments on remote servers will&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Testing Code on your Remote:
+&lt;ul&gt;
+&lt;li&gt;Use pre-commit tests and test on your local machine (canary)&lt;/li&gt;
+&lt;li&gt;Pull on remote machine and test with debug breakpoints and logging&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Use Jupyter Lab/Notebooks to run code in blocks
+&lt;ul&gt;
+&lt;li&gt;Deploy Notebooks on Compute Nodes and use port forwarding to experiment with the ipynb locally&lt;/li&gt;
+&lt;li&gt;Warning: Using SFTP and forced autoupload to remote can cause problems with repos using multiple branches by causing desyncs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Port forwarding (e.g., Tensorboard, Jupyerlab)&lt;/li&gt;
+&lt;li&gt;Scheduling Jobs:
+&lt;ul&gt;
+&lt;li&gt;Daemons: Jobs that just won’t stop&lt;/li&gt;
+&lt;li&gt;Crontab: Schedule recurring jobs to be called by the cron daemon&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;HPC Cluster: Queuing jobs on Slurm&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;file-systems--remote-backup&#34;&gt;File Systems &amp;amp; Remote Backup&lt;/h2&gt;
+&lt;p&gt;Organizing and cloud-syncing your filesystem can make navigating and accessing files much less of a headache.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Auto-syncing files across Devices: Google Drive and Dropbox
+&lt;ul&gt;
+&lt;li&gt;Organizing your filesystem and making it searchable&lt;/li&gt;
+&lt;li&gt;Use symlinks to keep your sensitive things local if you don’t trust your remote storage&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Working with Remote Servers:
+&lt;ul&gt;
+&lt;li&gt;Access remote files by mounting external servers with NFS&lt;/li&gt;
+&lt;li&gt;Keep your project files synced with SFTP and Deployment Plugins (CLI: rsync)&lt;/li&gt;
+&lt;li&gt;Keep your dev environments synced by maintaining your .dotfiles&lt;/li&gt;
+&lt;li&gt;Ex. .zshprofile, .zshrc, .vimrc, .gitconfig, .tmux.conf&lt;/li&gt;
+&lt;li&gt;Remote Configs: Faster development with SSH and Git Configs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;personal-security&#34;&gt;Personal Security&lt;/h2&gt;
+&lt;p&gt;Services are frequently compromised. Encryption and MFA increase your digital safety when that happens.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Multi-Factor Authentication: So strangers can’t remote login onto your accounts
+&lt;ul&gt;
+&lt;li&gt;Use an authenticator app (Duo, Authy, GAuth) or physical security keys instead of SMS&lt;/li&gt;
+&lt;li&gt;Use a password manager (1Pass, Lastpass, etc)&lt;/li&gt;
+&lt;li&gt;Use secure messaging (Signal, Telegram, etc)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;other-comments&#34;&gt;Other Comments&lt;/h2&gt;
+&lt;p&gt;This is a compilation of tools that I&amp;rsquo;ve found useful but is by no means an authortitative resource.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If you need a custom tool, double check it hasn’t been already written&lt;/li&gt;
+&lt;li&gt;If you’re copying lots of code, consider abstracting it to a separate class or function&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;My Dot Files: &lt;a href=&#34;https://github.com/JaredFern/DotFiles&#34;&gt;https://github.com/JaredFern/DotFiles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;MIT Missing Semester Course: &lt;a href=&#34;https://missing.csail.mit.edu/&#34;&gt;https://missing.csail.mit.edu/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
