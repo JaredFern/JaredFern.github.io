@@ -5,9 +5,9 @@
     <link>https://jaredfern.com/author/jaredfern/</link>
       <atom:link href="https://jaredfern.com/author/jaredfern/index.xml" rel="self" type="application/rss+xml" />
     <description>Jaredfern</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated December 7, 2025.</copyright><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated May 30, 2026.</copyright><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jaredfern.com/images/icon_hu_30824fa082800a1a.png</url>
+      <url>https://jaredfern.com/images/icon_hu_abe18b2d11859fbb.png</url>
       <title>Jaredfern</title>
       <link>https://jaredfern.com/author/jaredfern/</link>
     </image>
@@ -29,6 +29,7 @@
 &lt;a href=&#34;http://users.eecs.northwestern.edu/~pappas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Thrasos Pappas&lt;/a&gt;.  I&amp;rsquo;ve also spent time at Google, Meta FAIR, and the Allen Institute for Artificial Intelligence.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;code&gt;jaredfern [at] cmu.edu&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Out-of-Date News:&lt;/strong&gt; &lt;br&gt;
+$\quad$ [July 2026] $\quad$ Our work on Life Cycle Assessments for ML Models will be a position paper at ICML!&lt;br/&gt;
 $\quad$ [Aug. 2025] $\quad$ Our work on the energy requirements of LLM inference was presented at ACL 2025!&lt;br/&gt;
 $\quad$ [April 2025] $\quad$ Preliminary work won a Best Proposal Award at the CCAI Workshop at ICLR!&lt;br/&gt;
 $\quad$ [April 2025] $\quad$ Presented joint work on 

@@ -5,12 +5,28 @@
     <link>https://jaredfern.com/author/emma-strubell/</link>
       <atom:link href="https://jaredfern.com/author/emma-strubell/index.xml" rel="self" type="application/rss+xml" />
     <description>Emma Strubell</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated December 7, 2025.</copyright><lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated May 30, 2026.</copyright><lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jaredfern.com/images/icon_hu_30824fa082800a1a.png</url>
+      <url>https://jaredfern.com/images/icon_hu_abe18b2d11859fbb.png</url>
       <title>Emma Strubell</title>
       <link>https://jaredfern.com/author/emma-strubell/</link>
     </image>
+    
+    <item>
+      <title>Practical Evaluation of Machine Learning Efficiency Requires Model Life Cycle Assessment</title>
+      <link>https://jaredfern.com/publication/lca/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://jaredfern.com/publication/lca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empirically-Calibrated H100 Node Power Models for Reducing Uncertainty in AI Training Energy Estimation</title>
+      <link>https://jaredfern.com/publication/training-energy/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://jaredfern.com/publication/training-energy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Energy Considerations of Large Language Model Inference and Efficiency Optimizations</title>
