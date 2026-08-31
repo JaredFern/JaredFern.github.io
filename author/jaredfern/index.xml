@@ -2,33 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jaredfern | Jared Fernandez</title>
-    <link>https://jaredfern.com/author/jaredfern/</link>
-      <atom:link href="https://jaredfern.com/author/jaredfern/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jaredfern/</link>
+      <atom:link href="http://localhost:1313/author/jaredfern/index.xml" rel="self" type="application/rss+xml" />
     <description>Jaredfern</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated May 30, 2026.</copyright><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated September 7, 2026.</copyright><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jaredfern.com/images/icon_hu_abe18b2d11859fbb.png</url>
+      <url>http://localhost:1313/images/icon_hu_abe18b2d11859fbb.png</url>
       <title>Jaredfern</title>
-      <link>https://jaredfern.com/author/jaredfern/</link>
+      <link>http://localhost:1313/author/jaredfern/</link>
     </image>
     
     <item>
       <title>Jared Fernandez</title>
-      <link>https://jaredfern.com/author/jared-fernandez/</link>
+      <link>http://localhost:1313/author/jared-fernandez/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://jaredfern.com/author/jared-fernandez/</guid>
-      <description>&lt;p&gt;I am a PhD candidate in the 
-&lt;a href=&#34;https://lti.cs.cmu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Language Technologies Institute&lt;/a&gt; at 
-&lt;a href=&#34;https://cmu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carnegie Mellon University&lt;/a&gt; where I am advised by 
+      <guid>http://localhost:1313/author/jared-fernandez/</guid>
+      <description>&lt;p&gt;I am a postdoctoral researcher at Cornell Tech with 
+&lt;a href=&#34;https://ugupta.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Udit Gupta&lt;/a&gt;. My research interests are in characterizing and evaluating the impact of machine learning workloads, with the goal of designing computationally and energy efficient systems for artificial intelligence. My research is generously supported by the Empire AI Postdoctoral Fellowship.&lt;/p&gt;
+&lt;p&gt;I completed my PhD at Carnegie Mellon University in the 
+&lt;a href=&#34;https://lti.cs.cmu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Language Technologies Institute&lt;/a&gt; where I was advised by 
 &lt;a href=&#34;https://yonatanbisk.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yonatan Bisk&lt;/a&gt; and 
-&lt;a href=&#34;https://strubell.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emma Strubell&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;My research interests are in characterizing and evaluating the impact of machine learning workloads, with the goal of designing computationally and energy efficient systems for artificial intelligence. My research is generously supported by the NSF Graduate Research Fellowship.&lt;/p&gt;
-&lt;p&gt;Previously, I received my B.S. in Computer Science and B.S. in Electrical Engineering at 
+&lt;a href=&#34;https://strubell.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emma Strubell&lt;/a&gt;, where my work was supported by the NSF Graduate Research Fellowship.
+Previously, I received my B.S. in Computer Science and B.S. in Electrical Engineering at 
 &lt;a href=&#34;https://northwestern.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Northwestern University&lt;/a&gt; where I worked with 
 &lt;a href=&#34;https://users.cs.northwestern.edu/~ddowney/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Doug Downey&lt;/a&gt; and 
 &lt;a href=&#34;http://users.eecs.northwestern.edu/~pappas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Thrasos Pappas&lt;/a&gt;.  I&amp;rsquo;ve also spent time at Google, Meta FAIR, and the Allen Institute for Artificial Intelligence.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;code&gt;jaredfern [at] cmu.edu&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Out-of-Date News:&lt;/strong&gt; &lt;br&gt;
+$\quad$ [Sept. 2026] $\quad$ I defended my PhD Thesis and am starting a postdoc at Cornell Tech!
 $\quad$ [July 2026] $\quad$ Our work on Life Cycle Assessments for ML Models will be a position paper at ICML!&lt;br/&gt;
 $\quad$ [Aug. 2025] $\quad$ Our work on the energy requirements of LLM inference was presented at ACL 2025!&lt;br/&gt;
 $\quad$ [April 2025] $\quad$ Preliminary work won a Best Proposal Award at the CCAI Workshop at ICLR!&lt;br/&gt;
@@ -45,9 +46,9 @@ $\qquad$ [Nov. 2019] $\quad$ Starting fulltime as a Software Engineer at Google!
     
     <item>
       <title>Jared Fernandez</title>
-      <link>https://jaredfern.com/author/jared-fernandez/</link>
+      <link>http://localhost:1313/author/jared-fernandez/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jaredfern.com/author/jared-fernandez/</guid>
+      <guid>http://localhost:1313/author/jared-fernandez/</guid>
       <description>&lt;p&gt;I am a doctoral student in the 
 &lt;a href=&#34;https://lti.cs.cmu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Language Technologies Institute&lt;/a&gt; at 
 &lt;a href=&#34;https://cmu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carnegie Mellon University&lt;/a&gt; where I am advised by 

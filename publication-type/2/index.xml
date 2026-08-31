@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Jared Fernandez</title>
-    <link>https://jaredfern.com/publication-type/2/</link>
-      <atom:link href="https://jaredfern.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication-type/2/</link>
+      <atom:link href="http://localhost:1313/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated May 30, 2026.</copyright><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated September 7, 2026.</copyright><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jaredfern.com/images/icon_hu_abe18b2d11859fbb.png</url>
+      <url>http://localhost:1313/images/icon_hu_abe18b2d11859fbb.png</url>
       <title>2</title>
-      <link>https://jaredfern.com/publication-type/2/</link>
+      <link>http://localhost:1313/publication-type/2/</link>
     </image>
     
     <item>
       <title>Gradient Localization Improves Lifelong Pretraining of Language Models</title>
-      <link>https://jaredfern.com/publication/gradient_trace/</link>
+      <link>http://localhost:1313/publication/gradient_trace/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://jaredfern.com/publication/gradient_trace/</guid>
+      <guid>http://localhost:1313/publication/gradient_trace/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generative Data Augmentation for Commonsense Reasoning</title>
-      <link>https://jaredfern.com/publication/gdaug/</link>
+      <link>http://localhost:1313/publication/gdaug/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://jaredfern.com/publication/gdaug/</guid>
+      <guid>http://localhost:1313/publication/gdaug/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VecShare: A Framework for Sharing Word Representation Vectors</title>
-      <link>https://jaredfern.com/publication/vecshare/</link>
+      <link>http://localhost:1313/publication/vecshare/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://jaredfern.com/publication/vecshare/</guid>
+      <guid>http://localhost:1313/publication/vecshare/</guid>
       <description></description>
     </item>
     

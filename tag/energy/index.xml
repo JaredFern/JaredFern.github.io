@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Energy | Jared Fernandez</title>
-    <link>https://jaredfern.com/tag/energy/</link>
-      <atom:link href="https://jaredfern.com/tag/energy/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/energy/</link>
+      <atom:link href="http://localhost:1313/tag/energy/index.xml" rel="self" type="application/rss+xml" />
     <description>Energy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated May 30, 2026.</copyright><lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated September 7, 2026.</copyright><lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jaredfern.com/images/icon_hu_abe18b2d11859fbb.png</url>
+      <url>http://localhost:1313/images/icon_hu_abe18b2d11859fbb.png</url>
       <title>Energy</title>
-      <link>https://jaredfern.com/tag/energy/</link>
+      <link>http://localhost:1313/tag/energy/</link>
     </image>
     
     <item>
       <title>Practical Evaluation of Machine Learning Efficiency Requires Model Life Cycle Assessment</title>
-      <link>https://jaredfern.com/publication/lca/</link>
+      <link>http://localhost:1313/publication/lca/</link>
       <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://jaredfern.com/publication/lca/</guid>
+      <guid>http://localhost:1313/publication/lca/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Empirically-Calibrated H100 Node Power Models for Reducing Uncertainty in AI Training Energy Estimation</title>
-      <link>https://jaredfern.com/publication/training-energy/</link>
+      <link>http://localhost:1313/publication/training-energy/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://jaredfern.com/publication/training-energy/</guid>
+      <guid>http://localhost:1313/publication/training-energy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Energy Considerations of Large Language Model Inference and Efficiency Optimizations</title>
-      <link>https://jaredfern.com/publication/inference_energy/</link>
+      <link>http://localhost:1313/publication/inference_energy/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://jaredfern.com/publication/inference_energy/</guid>
+      <guid>http://localhost:1313/publication/inference_energy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient Hardware Scaling and Diminishing Returns in Large-Scale Training of Language Models</title>
-      <link>https://jaredfern.com/publication/hardware-scaling/</link>
+      <link>http://localhost:1313/publication/hardware-scaling/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://jaredfern.com/publication/hardware-scaling/</guid>
+      <guid>http://localhost:1313/publication/hardware-scaling/</guid>
       <description></description>
     </item>
     
